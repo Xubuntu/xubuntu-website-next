@@ -1,0 +1,292 @@
+:root {
+   --pad: 4em;
+
+   --palette-xubuntu-blue: #04a;
+   --palette-xubuntu-blue-alt: #4790fa;
+
+   --color-fg: #111;
+   --color-fg-tertiary: #fff;
+   --color-bg: #fff;
+   --color-bg-secondary: #f0f2f5;
+   --color-bg-tertiary: #849cbd;
+
+   --color-gradient-first: #2895d9;
+   --color-gradient-second: #0d70b3;
+   --color-blue-angle: #0a5283;
+
+   --color-link: var(--palette-xubuntu-blue);
+   --color-link-hover: var(--palette-xubuntu-blue-alt);
+   --color-heading: var(--palette-xubuntu-blue);
+   --color-hairline: rgba(0,0,0,0.15);
+
+   --color-button-fg: var(--palette-xubuntu-blue);
+   --color-button-bg: #fff;
+   --color-button-shadow: rgba(0,0,0,0.5);
+   --color-button-glow: rgba(255,255,255,0.5);
+
+   --font: 'Noto Sans', sans-serif;
+   --font-heading: 'Montserrat', sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+   :root {
+      --color-fg: #fff;
+      --color-bg: #111c2b;
+      --color-bg-secondary: #222b38;
+      --color-bg-tertiary: #162333;
+
+      --color-gradient-first: #052940;
+      --color-gradient-second: #06304d;
+      --color-blue-angle: #0e71b5;
+
+      --color-link: var(--palette-xubuntu-blue-alt);
+      --color-link-hover: var(--palette-xubuntu-blue);
+      --color-heading: var(--palette-xubuntu-blue-alt);
+      --color-hairline: rgba(255,255,255,0.25);
+   }
+}
+
+/*
+ *  Elements
+ *
+ */
+
+a {
+   text-decoration: none;
+   color: var(--color-link);
+}
+   main a:is(:hover,:active,:focus) {
+      color: var(--color-link-hover);
+   }
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: var(--font-heading);
+   font-weight: 400;
+   margin-bottom: 1em;
+   line-height: 1.3em;
+}
+   h1 { font-size: 200%; }
+   h2 { font-size: 160%; }
+      body:not(#index) h2 {
+         font-size: 200%;
+         color: var(--palette-xubuntu-blue);
+      }
+   h3 { font-size: 120%; font-weight: 500; }
+   h4 { font-size: 100%; font-weight: 500; }
+
+hr {
+   border: none;
+   border-top: 1px solid var(--color-hairline);
+}
+
+/*
+ *  Layout
+ *
+ */
+
+body {
+   background-color: var(--color-bg);
+   color: var(--color-fg);
+   font-family: var(--font);
+   line-height: 1.6em;
+}
+
+section {
+   width: min( 90%, 1200px );
+   margin: var(--pad) auto;
+}
+   section section {
+      margin: 0 auto;
+   }
+   section.wide { width: 100vw; }
+      section.wide > * { width: min( 90%, 1200px ); margin-right: auto; margin-left: auto; }
+
+header {
+   position: relative;
+   background: var(--color-gradient-first) radial-gradient(circle at 30%, var(--color-gradient-first), var(--color-gradient-second));
+   color: #fff;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
+   header nav {
+      position: absolute;
+      top: 0;
+      z-index: 3;
+      right: max( 5%, calc( ( 100vw - 1200px ) / 2 ) );
+   }
+      header nav a {
+         color: #fff;
+         margin-left: 2em;
+         font-weight: 500;
+         font-family: var(--font-heading);
+         letter-spacing: 0.05em;
+      }
+   body:not(#index) header section {
+      margin-top: .5em;
+      margin-bottom: .5em;
+   }
+      body:not(#index) header h1 {
+         margin-bottom: 0;
+      }
+      body:not(#index) header section #logo {
+         height: 30px;
+      }
+   body:not(#index) header nav {
+      height: 100%;
+      align-content: center;
+   }
+
+   /* Index */
+   body#index header {
+      padding-bottom: var(--pad);
+   }
+      body#index header nav {
+         top: var(--pad);
+      }
+      body#index header::after {
+         content: '';
+         position: absolute;
+         bottom: 0;
+         left: 0;
+         display: block;
+         width: 100%;
+         height: calc( var(--pad) * 2);
+
+         background-color: var(--color-bg);
+         mask-image: linear-gradient(to bottom right,transparent 0%,transparent 50%,#fff calc(50% + 1px),#fff 100%);
+         mask-size: 100% 100%;
+         mask-position: 100% 100%;
+         mask-repeat: no-repeat;
+      }
+      body#index header::before {
+         content: '';
+         position: absolute;
+         top: 0;
+         right: 0;
+         width: 60%;
+         height: calc( 100% + var(--pad) );
+         z-index: 2;
+
+         opacity: 0.18;
+         background-color: var(--color-blue-angle);
+         mask-image: linear-gradient(to top right,transparent 0%,transparent 50%,#fff calc(50% + 1px),#fff 100%);
+         mask-size: 100% 100%;
+         mask-position: 100% 100%;
+         mask-repeat: no-repeat;
+      }
+
+main { }
+   main h3 { color: var(--color-heading); }
+   main > .secondary:last-child { margin-bottom: 0; }
+
+footer {
+   background-color: var(--color-bg-tertiary);
+   color: var(--color-fg-tertiary);
+   padding: var(--pad) 0;
+}
+   footer section {
+      margin-top: 0;
+      margin-bottom: 0;
+   }
+   footer nav a {
+      display: block;
+      color: #fff;
+      font-weight: 600;
+   }
+
+/*
+ *  Common classes
+ *
+ */
+
+/*  Columns  */
+
+[class*="columns"] {
+   display: grid;
+   grid-template-columns: repeat(var(--col),1fr);
+   grid-gap: var(--pad);
+}
+
+.columns-2 { --col: 2; }
+.columns-3 { --col: 3; }
+.columns-4 { --col: 4; }
+
+/*  Icon alongside content  */
+
+.icon-side {
+   display: grid;
+   grid-template-columns: 100px auto;
+   grid-gap: calc( var(--pad) / 2 );
+}
+   .icon-side img {
+      width: 100%;
+      height: auto;
+   }
+   .icon-side h3 {
+      color: var(--color-fg);
+   }
+
+/*  Section with secondary BG color  */
+
+section.secondary {
+   background-color: var(--color-bg-secondary);
+   padding: calc( var(--pad) / 1.25 ) 0;
+}
+
+/*  Article list  */
+
+.article-list > article > * {
+   margin-bottom: 0.2em;
+}
+
+/*  Button  */
+
+.button {
+   padding: 0.65em 1em;
+   position: relative;
+}
+   .button span {
+      background-color: var(--color-button-bg);
+      border-radius: 0.5em;
+      position: relative;
+      top: 0;
+      z-index: 2;
+      transition: 200ms all;
+   }
+      .button span::after {
+         content: '›';
+         margin-left: 0.5em;
+      }
+   .button::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      display: block;
+      height: 100%;
+      width: 100%;
+      border-radius: 0.5em;
+      z-index: 1;
+      background-color: var(--color-button-bg);
+      transition: 200ms all;
+   }
+   .button::after {
+      content: '';
+      position: absolute;
+      top: 0.5em;
+      bottom: 0;
+      display: block;
+      height: 100%;
+      width: 100%;
+      border-radius: 0.5em;
+      z-index: 0;
+      background-color: var(--color-button-shadow);
+      transition: 200ms all;
+   }
+   .button:hover::before,
+   .button:hover span {
+      top: 0.5em;
+   }
+   .button:hover::after {
+      box-shadow: 0 0 2em var(--color-button-glow);
+   }

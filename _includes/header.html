@@ -1,0 +1,19 @@
+<header>
+   <section>
+      <h1>
+         <a href="{{ "/" | relative_url }}"><img id="logo" src="{{ "/assets/images/logo.svg" | relative_url }}" alt="Xubuntu" /></a>
+      </h1>
+      {%- assign current = page.path | remove: '.md' -%}
+      {%- if current == 'index' -%}
+         <div>
+            <h2>
+               <strong>Xubuntu</strong> is a community developed,<br />
+               elegant and easy to use operating system
+            </h2>
+            <br />
+            <p><a class="button" href="{{ "/download" | relative_url }}"><span>Download</span></a></p>
+         </div>
+      {%- endif -%}
+   </section>
+   {%- include nav.html -%}
+</header>
