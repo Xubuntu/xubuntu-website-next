@@ -1,0 +1,10 @@
+products:
+   desktop:
+      name: Desktop
+   minimal:
+      name: Minimal
+architectures:
+   amd64:
+      name: 64-bit
+   i386:
+      name: 32-bit

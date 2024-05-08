@@ -23,7 +23,7 @@ layout: default
       <div>
          <h3>Need help?</h3>
          <p>User documentation is shipped with each version of Xubuntu. For further assistance, check all available support methods.</p>
-         <p><a href="{{ "/help" | relative_url }}">Support &nbsp;&rsaquo;</a></p>
+         <p><a class="quo" href="{{ "/help" | relative_url }}">Support</a></p>
       </div>
    </div>
    <div class="icon-side">
@@ -31,28 +31,9 @@ layout: default
       <div>
          <h3>Join our community</h3>
          <p>Xubuntu is created by volunteers.<br />Read more on how you can get involved and help us make Xubuntu even better!</p>
-         <p><a href="{{ "/contribute" | relative_url }}">Get Involved &nbsp;&rsaquo;</a></p>
+         <p><a class="quo" href="{{ "/contribute" | relative_url }}">Get Involved</a></p>
       </div>
    </div>
 </section>
 
-<section class="wide secondary">
-   <h3>Latest News</h3>
-   <section class="article-list columns-3">
-      <article>
-         <h4>New Xubuntu Website Launched</h4>
-         <p>After a long wait, we have refreshed our website. The website is much more compact than the previous one and runs on Jekyll.</p>
-         <p><a href="#">Read more &nbsp;&rsaquo;</a></p>
-      </article>
-      <article>
-         <h4>Xubuntu 24.10 Released!</h4>
-         <p>Xubuntu 24.10 "Ominous Orangutang" will be released in October 2024. This regular release is supported until April 2026.</p>
-         <p><a href="#">Read more &nbsp;&rsaquo;</a></p>
-      </article>
-      <article>
-         <h4>"Best Operating System"</h4>
-         <p>An anonymous person on the street has allegedly told a Xubuntu team member that Xubuntu is "the best operating system".</p>
-         <p><a href="#">Read more &nbsp;&rsaquo;</a></p>
-      </article>
-   </section>
-</section>
+{%- include index-featured.html -%}

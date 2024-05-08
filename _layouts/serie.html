@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section>
+   <h2>{{ page.title }}</h2>
+   {{ content }}
+
+   {%- assign serie = page.url | replace: '/serie/', '' -%}
+   {%- assign articles = site.articles | where: 'serie', serie -%}
+   {%- if articles.size > 0 -%}
+      <h3>Articles</h3>
+      <ul class="article-list">
+         {%- for article in articles -%}
+            <li>
+               {{ article.date | date: site.date_format }}<br />
+               <strong><a href="{{ article.url }}">{{ article.title }}</a></strong>
+            </li>
+         {%- endfor -%}
+      </ul>
+   {%- endif -%}
+</section>

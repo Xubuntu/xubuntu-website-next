@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<section>
+   <h2>{{ page.title }}</h2>
+   {{ page.content }}
+</section>
+<section>
+   {%- assign releases = site.releases -%}
+   {%- for release in releases -%}
+      <h3>{{ release.title }}</h3>
+      {{ release.content }}
+   {%- endfor -%}
+</section>

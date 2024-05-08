@@ -1,0 +1,9 @@
+<!-- -->
+<figure>
+   <img src="/assets/articles/{{ page.date | date: '%Y' }}/{{ include.src }}" alt="{{ include.alt }}" />
+   {%- if include.caption -%}
+      <figcaption>
+         {{ include.caption }}
+      </figcaption>
+   {%- endif -%}
+</figure>

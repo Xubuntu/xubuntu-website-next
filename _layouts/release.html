@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<section>
+   <h2>{{ page.title }}</h2>
+   {{ content }}
+
+   <dl class="release-info">
+      <dt>Codename</dt><dd>{{ page.codename }}</dd>
+      <dt>Release Date</dt><dd>{{ page.date_rel }}</dd>
+      <dt>End of Life</dt><dd>{{ page.date_eol }}</dd>
+      <dt>Release Links</dt><dd></dd>
+   </dl>
+
+   {%- if page.version_point -%}
+      {%- assign version_component = page.version_point -%}
+   {%- else -%}
+      {%- assign version_component = page.version -%}
+   {%- endif -%}
+
+   <h3>Downloads</h3>
+   <h4>Torrents <span class="sidenote">Highly recommended!</span></h4>
+   <ul>
+      {%- assign products = page.products | split: ',' -%}
+      {%- for product in products -%}
+         {%- assign product_name = site.data.glossary.products[product].name -%}
+         {%- assign torrent = site.torrent_link_format | replace: "CODENAME", page.codename_slug | replace: "PRODUCT", product | replace: "VER", version_component -%}
+         {%- assign architectures = page.architectures | split: ',' -%}
+         {%- for arch in architectures -%}
+            {%- assign arch_name = site.data.glossary.architectures[arch].name -%}
+            {%- assign torrent_arch = torrent | replace: "ARCH", arch -%}
+            <li><strong><a href="{{ torrent_arch }}">Torrent ({{ product_name }}, {{ arch_name }})</a></strong></li>
+         {%- endfor -%}
+      {%- endfor -%}
+   </ul>
+   <h4>Direct Downloads</h4>
+   <ul class="mirrors-list">
+      {%- for mirror in site.data.mirrors.servers -%}
+         <li>
+            {%- if mirror.major -%}<strong>{%- endif -%}
+            <a href="{{ mirror.url | replace: "VER", version_component }}">{{ mirror.country }}</a>
+            {%- if mirror.major -%}</strong>{%- endif -%}
+         </li>
+      {%- endfor -%}
+   </ul>
+
+   {%- assign articles = site.articles -%}
+   {%- if articles.size > 0 -%}
+      <h3>Articles</h3>
+      <ul class="article-list">
+         {%- for article in articles -%}
+            <li>
+               {{ article.date | date: site.date_format }}<br />
+               <strong><a href="{{ article.url }}">{{ article.title }}</a></strong>
+            </li>
+         {%- endfor -%}
+      </ul>
+   {%- endif -%}
+
+   {%- assign press = site.press | where: "release", page.version -%}
+   {%- if press.size > 0 -%}
+      <h3>In the Press</h3>
+      {%- for page in press -%}
+         {{ page.content }}
+      {%- endfor -%}
+   {%- endif -%}
+
+   {%- assign release_media = site.static_files | where: "release_media", true  -%}
+   {%- assign found = "" | split: ',' -%}
+   {%- for media in release_media -%}
+      {%- if media.path contains page.version -%}
+         {%- assign found = found | push: media.path -%}
+      {%- endif -%}
+   {%- endfor -%}
+   {%- if found.size > 0 -%}
+      <h3>Screenshots</h3>
+      <div class="media-list">
+         {%- for media in found -%}
+            <a href="{{ media }}"><img src="{{ media }}" /></a>
+         {%- endfor -%}
+      </div>
+   {%- endif -%}
+
+</section>

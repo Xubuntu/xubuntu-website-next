@@ -1,0 +1,118 @@
+servers:
+  - name: AARnet Pty Ltd
+    country: Australia
+    url: http://mirror.aarnet.edu.au/pub/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/mirror.aarnet.edu.au-release
+    major: true
+
+  - name: Internode
+    country: Australia
+    url: http://mirror.internode.on.net/pub/ubuntu/xubuntu/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/mirror.internode.on.net-release2
+
+  - name: IPACCT
+    country: Bulgaria
+    url: http://ubuntu.ipacct.com/xubuntu/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/bgubuntur
+    major: true
+
+  - name: University of Waterloo Computer Science Club
+    country: Canada
+    url: http://mirror.csclub.uwaterloo.ca/xubuntu-releases/VER/release
+    info: https://launchpad.net/ubuntu/+mirror/mirror.csclub.uwaterloo.ca-release
+    major: true
+
+  - name: Tsinghua University
+    country: China
+    url: https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/mirrors.tuna.tsinghua.edu.cn-release
+    major: true
+
+  - name: USTC Linux User Group
+    country: China
+    url: http://mirrors.ustc.edu.cn/ubuntu-cdimage/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/mirrors.ustc.edu.cn-release
+
+  - name: Free
+    country: France
+    url: http://ftp.free.fr/mirrors/ftp.xubuntu.com/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/ftp.free.fr-release
+    major: true
+
+  - name: University of Kaiserslautern
+    country: Germany
+    url: http://ftp.uni-kl.de/pub/linux/ubuntu-dvd/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/ftp.uni-kl.de-release
+    major: true
+
+  - name: LeaseWeb Germany GmbH
+    country: Germany
+    url: http://mirror.de.leaseweb.net/ubuntu-cdimage/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/mirror.de.leaseweb.net-release
+
+  - name: Technische Universität Chemnitz
+    country: Germany
+    url: http://ftp.tu-chemnitz.de/pub/linux/ubuntu-cdimage/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/ftp.tu-chemnitz.de-release
+
+  - name: UNIVERSITY OF TOYAMA with Ubuntu Japanese LoCo
+    country: Japan
+    url: http://ubuntutym2.u-toyama.ac.jp/xubuntu/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/ubuntutym2.u-toyama.ac.jp-release
+    major: true
+
+  - name: BIT B.V.
+    country: Netherlands
+    url: http://nl.archive.ubuntu.com/ubuntu-cdimage-xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/bit.nl.releases.ubuntu.com
+    major: true
+
+  - name: LeaseWeb Global B.V.
+    country: Netherlands
+    url: http://mirror.nl.leaseweb.net/ubuntu-cdimage/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/mirror.nl.leaseweb.net-release
+
+  - name: Yandex
+    country: Russia
+    url: http://mirror.yandex.ru/ubuntu-cdimage/xubuntu/releases/VER/release
+    info: https://launchpad.net/ubuntu/+mirror/mirror.yandex.ru-release
+    major: true
+
+  - name: Lysator
+    country: Sweden
+    url: http://ftp.lysator.liu.se/ubuntu-dvd/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/ftp.lysator.liu.se-release
+    major: true
+
+  - name: Academic Computer Club, Umeå University
+    country: Sweden
+    url: http://se.archive.ubuntu.com/mirror/cdimage.ubuntu.com/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/ftp.acc.umu.se-archive
+
+  - name: Ubuntu-TW
+    country: Taiwan
+    url: http://ftp.ubuntu-tw.net/mirror/ubuntu-cdimage/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/ftp.ubuntu-tw.net-release
+
+  - name: University Of Kent UK Mirror Service
+    country: United Kingdom
+    url: http://www.mirrorservice.org/sites/cdimage.ubuntu.com/cdimage/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/uk-mirror-service-cd
+    major: true
+
+  - name: Canonical Ltd.
+    country: United Kingdom
+    url: https://cdimages.ubuntu.com/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/releases.ubuntu.com
+    major: true
+
+  - name: LeaseWeb USA, Inc
+    country: United States
+    url: http://mirror.us.leaseweb.net/ubuntu-cdimage/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/mirror.us.leaseweb.net-release
+    major: true
+
+  - name: Ftp.ussg.iu.edu
+    country: United States
+    url: http://ftp.ussg.iu.edu/linux/xubuntu/releases/VER/release/
+    info: https://launchpad.net/ubuntu/+mirror/ftp.ussg.iu.edu

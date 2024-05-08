@@ -19,7 +19,22 @@ description: Xubuntu is a community developed, elegant and easy to use operating
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Formats
+date_format: "%B %e, %Y"
+torrent_link_format: "https://torrent.ubuntu.com/xubuntu/releases/CODENAME/release/PRODUCT/xubuntu-VER-PRODUCT-ARCH.iso.torrent"
+
 # Build settings
+collections:
+   articles:
+      output: true
+      permalink: /news/:title
+   press:
+   releases:
+      output: true
+      permalink: /release/:title
+   series:
+      output: true
+      permalink: /serie/:title
 permalink: /:title
 nav_links:
    - download.md
@@ -29,16 +44,37 @@ nav_links:
 markdown: kramdown
 plugins:
   - jekyll-feed
+exclude:
+  - images
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Defaults
+defaults:
+   -
+      scope:
+         path: "assets/releases"
+      values:
+         release_media: true
+   -
+      scope:
+         path: ""
+         type: "releases"
+      values:
+         layout: "release"
+   -
+      scope:
+         path: ""
+         type: "articles"
+      values:
+         layout: "article"
+   -
+      scope:
+         type: "series"
+      values:
+         layout: "serie"
