@@ -16,12 +16,7 @@ Flyers can be printed at home or with any typical printing service. A successful
 
 ![](/assets/articles/2015/xubuntu_flyers_printed.jpg)
 
-They're available for download here:
-
-- [**A4** (web)](/assets/articles/2014/flyer_A4_web.pdf)
-- [**A4** (print)](/assets/articles/2014/flyer_A4_print.pdf)
-- [**US letter** (web)](/assets/articles/2014/flyer_USletter_web.pdf)
-- [**US letter** (print)](/assets/articles/2014/flyer_USletter_print.pdf)
+**Find the links to the flyer as well as all translated versions on the [Products](http://xubuntu.org/products/ "Products") page.**
 
 Licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/), you are welcome to freely remix, transform, and build upon the material under the terms of that license. Source (SVG files, editable in Inkscape) are available in the [Xubuntu marketing code repository](https://code.launchpad.net/xubuntu-marketing).
 

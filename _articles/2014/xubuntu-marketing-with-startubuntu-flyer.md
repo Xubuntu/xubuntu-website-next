@@ -12,7 +12,7 @@ The [StartUbuntu](https://wiki.ubuntu.com/StartUbuntu) project seeks to spread U
 
 This month Elizabeth Krumbach Joseph and Pasi Lallinaho got to work on text and graphical updates to make this a reality and we're pleased to announce that the flyers have been created and uploaded to [SpreadUbuntu.org](http://spreadubuntu.org/)! Since uploading, we've also been inspired by community members who have begun translating it.
 
-**Find the links to the flyer as well as all translated versions on the [Products](http://xubuntu.org/products/ "Products") page.** (Edit 2014/04/15)
+**Find the links to the flyer as well as all translated versions on the [Products](http://xubuntu.org/products/ "Products") page.**
 
 If your language isn't represented yet, we encourage you to create translations in your own language and submit them to spreadubuntu.org. Once uploaded email Elizabeth at lyz@ubuntu.com with the spreadubuntu link to get it included on the Products page.
 
