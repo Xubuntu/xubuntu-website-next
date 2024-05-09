@@ -30,7 +30,7 @@
 
 @media (prefers-color-scheme: dark) {
    :root {
-      --color-fg: #fff;
+      --color-fg: #eee;
       --color-bg: #111c2b;
       --color-bg-secondary: #222b38;
       --color-bg-tertiary: #162333;
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
    h2 { font-size: 160%; }
       body:not(#index) h2 {
          font-size: 200%;
-         color: var(--palette-xubuntu-blue);
+         color: var(--color-heading);
       }
    h3 { font-size: 140%; font-weight: 500; color: var(--color-fg); opacity: 0.7; }
    h4 { font-size: 100%; font-weight: 500; }
@@ -248,7 +248,7 @@ footer {
    h2 + .meta {
       margin-top: -2em;
    }
-   .meta a {
+   .meta a:is(:link,:hover,:active,:focus,:visited) {
       color: var(--color-fg);
    }
    .meta > li {
