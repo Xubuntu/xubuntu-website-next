@@ -14,4 +14,4 @@ Changes for this release include the following applications included by default:
 
 We invite you to give this newest member of the Xubuntu family a spin. The Xubuntu Desktop CD can be used on either USB drives or burned to a CD. Either will allow you to try this fantastic distribution before you install it.
 
-Visit the [download page](http://xubuntu.org/get) to give it a try. Bugs can be [reported in Launchpad](https://launchpad.net/ubuntu/+filebug/). If you are looking for [support](http://xubuntu.org/help), please see the #xubuntu IRC channel on irc.freenode.net. Before installing this release, make sure to review the [release notes](https://wiki.ubuntu.com/Xubuntu/OneiricOcelot/Final).
+Visit the [download page](http://xubuntu.org/get) to give it a try. Bugs can be [reported in Launchpad](https://launchpad.net/ubuntu/+filebug/). If you are looking for [support](/help)), please see the #xubuntu IRC channel on irc.freenode.net. Before installing this release, make sure to review the [release notes](https://wiki.ubuntu.com/Xubuntu/OneiricOcelot/Final).

@@ -8,7 +8,7 @@ author:      flocculant
 author_nick: flocculant
 ---
 
-![Xubuntu 14.10 Utopic Unicorn](/assets/articles/releases/2014/unicorn-artwork.png)
+![Xubuntu 14.10 Utopic Unicorn](/assets/articles/2014/unicorn-artwork.png)
 Xubuntu 14.10 Utopic Unicorn
 
 The Xubuntu team is pleased to announce the immediate release of Xubuntu 14.10!

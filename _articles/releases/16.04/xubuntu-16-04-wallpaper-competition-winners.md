@@ -16,6 +16,15 @@ While we originally announced that we would be picking 6 winners, we eventually 
 
 Without further ado, here's the winners in alphabetical order:
 
-<!-- [gallery columns="2" link="none" size="xubuntu\_split\_to\_2" ids="3915,3916,3917,3918,3919,3920,3921,3922,3923,3924"] -->
+![](/assets/articles/2016/Kinkaku_Ji_by_Elizabeth_K_Joseph-1600.jpg)
+![](/assets/articles/2016/Mountainous_View_by_Sven_Scheuermeier-1600.jpg)
+![](/assets/articles/2016/My_Nut_by_bluesabreWife-1600.jpg)
+![](/assets/articles/2016/The_Sky_Is_The_Limit_by_Kaushik_Panchal-1600.jpg)
+![](/assets/articles/2016/Untitled_0026_by_Mike_Sinko-1600.jpg)
+![](/assets/articles/2016/Untitled_0535_by_Mike_Sinko-1600.jpg)
+![](/assets/articles/2016/Untitled_7019_by_Mike_Sinko-1600.jpg)
+![](/assets/articles/2016/Untitled_by_Aaron_Burden-1600.jpg)
+![](/assets/articles/2016/Untitled_by_Troy_Jarrell-1600.jpg)
+![](/assets/articles/2016/Yellow_Jacket_by_Manuel_Frei-1600.jpg)
 
 Note that the images listed above are resized for the website. For the full size images, make sure you have the package **xubuntu-community-wallpapers** installed. The package is preinstalled in all new Xubuntu 16.04 installations.

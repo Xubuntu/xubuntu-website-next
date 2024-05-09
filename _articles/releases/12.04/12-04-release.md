@@ -30,27 +30,27 @@ Release notes
 
 ### New default shortcut keys
 
-![](/assets/articles/releases/2012/max-horiz-32.png)
+![](/assets/articles/2012/max-horiz-32.png)
 **Alt F5** to maximize window horizontally
 
-![](/assets/articles/releases/2012/max-vert-32.png)
+![](/assets/articles/2012/max-vert-32.png)
 **Alt F6** to maximize window vertically
 
-![](/assets/articles/releases/2012/max-both-32.png)
+![](/assets/articles/2012/max-both-32.png)
 **Alt F7** to maximize window horizontally and vertically
 
 In addition, you can stick a window (making it appear in all workspaces) with **Alt F8**. The shortcuts for moving and resizing windows have been removed in favor of more powerful mouse gestures. Naturally, if you need these shortcuts, you can enable them from the Settings Manager.
 
-![](/assets/articles/releases/2012/firefox-32.png)
+![](/assets/articles/2012/firefox-32.png)
 **Super W** for Firefox
 
-![](/assets/articles/releases/2012/thunderbird-32.png)
+![](/assets/articles/2012/thunderbird-32.png)
 **Super M** for Thunderbird
 
-![](/assets/articles/releases/2012/thunar-32.png)
+![](/assets/articles/2012/thunar-32.png)
 **Super F** for Thunar
 
-![](/assets/articles/releases/2012/terminal-32.png)
+![](/assets/articles/2012/terminal-32.png)
 **Super T** for Terminal
 
 The aforementioned shortcuts are bound to exo-open launchers. This means they will always open any browser, mail reader, file manager or terminal emulator you have set as the default. In addition, there is six new application shortcut keys:

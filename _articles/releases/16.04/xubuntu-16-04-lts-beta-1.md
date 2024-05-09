@@ -12,7 +12,7 @@ The Xubuntu team is pleased to announce the immediate release of Xubuntu 16.04 L
 
 The first beta release also marks the end of the period to land new features in the form of Ubuntu Feature Freeze. This means any new updates to packages should be bug fixes only, the Xubuntu team is committed to fixing as many of the bugs as possible before the final release.
 
-**<span style="color: rgba( 180, 0, 0, 1 );">Please note!</span> No upgrade testing was undertaken during this milestone. There are issues currently when upgrading to Xenial Xerus. This release is not suitable for upgrading.**
+**Please note! No upgrade testing was undertaken during this milestone. There are issues currently when upgrading to Xenial Xerus. This release is not suitable for upgrading.**
 
 **The Beta 1 release is available for download by torrents and direct downloads from**[ http://cdimages.ubuntu.com/xubuntu/releases/xenial/beta-1/](http://cdimages.ubuntu.com/xubuntu/releases/xenial/beta-1/)
 

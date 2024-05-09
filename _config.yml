@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%B %e, %Y"
 torrent_link_format: "https://torrent.ubuntu.com/xubuntu/releases/CODENAME/release/PRODUCT/xubuntu-VER-PRODUCT-ARCH.iso.torrent"
 
-# Build settings
+# Content organization
 collections:
    articles:
       output: true
@@ -38,9 +38,13 @@ collections:
 permalink: /:title
 nav_links:
    - download.md
-   - support.md
+   - help.md
    - contribute.md
    - blog.md
+
+# Build settings
+paginate: 5
+paginate_path: "/blog/page:num/"
 markdown: kramdown
 plugins:
   - jekyll-feed

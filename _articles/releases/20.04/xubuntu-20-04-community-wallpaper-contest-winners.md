@@ -14,12 +14,23 @@ We want to send out a huge thanks to every contestant. Each contest becomes more
 
 Without further ado, here are the winners:
 
-- <figure>[![](https://xubuntu.org/assets/articles/releases/2020/5b49/Untitled_by_Luna_Reichmann.jpg)](https://xubuntu.org/assets/articles/releases/2020/5b49/Untitled_by_Luna_Reichmann.jpg)<figcaption>Untitled by Luca Reichmann (CC-BY 4.0)</figcaption></figure>
-- <figure>[![](https://xubuntu.org/assets/articles/releases/2020/a24a/Sunset_by_Kacperu.jpg)](https://xubuntu.org/assets/articles/releases/2020/a24a/Sunset_by_Kacperu.jpg)<figcaption>"Sunset" by Kacperu (CC-BY 4.0)</figcaption></figure>
-- <figure>[![](https://xubuntu.org/assets/articles/releases/2020/f3f7/Untitled_by_Anna_Ceccarelli.jpg)](https://xubuntu.org/assets/articles/releases/2020/f3f7/Untitled_by_Anna_Ceccarelli.jpg)<figcaption>Untitled by Anna Ceccarelli (CC-BY 4.0)</figcaption></figure>
-- <figure>[![](https://xubuntu.org/assets/articles/releases/2020/0fe2/Lighthouse_by_Dominik_Czernetzky.jpg)](https://xubuntu.org/assets/articles/releases/2020/0fe2/Lighthouse_by_Dominik_Czernetzky.jpg)<figcaption>"Lighthouse" by Dominik Czernetzky (CC-BY 4.0)</figcaption></figure>
-- <figure>[![](https://xubuntu.org/assets/articles/releases/2020/0a5d/Untitled_by_Nesimi_Acarca.jpg)](https://xubuntu.org/assets/articles/releases/2020/0a5d/Untitled_by_Nesimi_Acarca.jpg)<figcaption>Untitled by Nesimi Acarca (CC-BY 4.0)</figcaption></figure>
-- <figure>[![](https://xubuntu.org/assets/articles/releases/2020/d96b/Campos_de_Castilla_by_David_Arias_Gutierrez.jpg)](https://xubuntu.org/assets/articles/releases/2020/d96b/Campos_de_Castilla_by_David_Arias_Gutierrez.jpg)<figcaption>"Campos de Castilla" by David Arias Gutierrez (CC-BY 4.0)</figcaption></figure>
+![](/assets/articles/2020/Untitled_by_Luna_Reichmann.jpg)
+Untitled by Luca Reichmann (CC-BY 4.0)
+
+![](/assets/articles/2020/Sunset_by_Kacperu.jpg)
+"Sunset" by Kacperu (CC-BY 4.0)
+
+![](/assets/articles/2020/Untitled_by_Anna_Ceccarelli.jpg)
+Untitled by Anna Ceccarelli (CC-BY 4.0)
+
+![](/assets/articles/2020/Lighthouse_by_Dominik_Czernetzky.jpg)
+"Lighthouse" by Dominik Czernetzky (CC-BY 4.0)
+
+![](/assets/articles/2020/Untitled_by_Nesimi_Acarca.jpg)
+Untitled by Nesimi Acarca (CC-BY 4.0)
+
+![](/assets/articles/2020/Campos_de_Castilla_by_David_Arias_Gutierrez.jpg)
+"Campos de Castilla" by David Arias Gutierrez (CC-BY 4.0)
 
 Note that the images listed above are resized for the website. For the full size images, make sure you have the package **xubuntu-community-wallpapers** installed. The package is installed by default in all new Xubuntu 20.04 installations.
 

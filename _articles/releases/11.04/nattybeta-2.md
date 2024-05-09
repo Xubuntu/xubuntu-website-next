@@ -12,6 +12,6 @@ The second and final beta release of Xubuntu 11.04 "Natty Narwhal" has arrived. 
 
 [Visit the download page](http://cdimage.ubuntu.com/xubuntu/releases/11.04/beta-2/) to give it a try. Be sure to report your testing results to help the Xubuntu developers - see [the ISO testing tracker](http://iso.qa.ubuntu.com/qatracker/build/xubuntu/all). [Bugs can be reported in Launchpad](https://launchpad.net/ubuntu/+filebug/).
 
-If you are looking for [support](http://xubuntu.org/help), please see the #ubuntu+1 or #xubuntu IRC channels on irc.freenode.net.
+If you are looking for [support](/help)), please see the #ubuntu+1 or #xubuntu IRC channels on irc.freenode.net.
 
 Before testing this release, make sure to review the [release notes](http://www.ubuntu.com/testing/natty/beta) (specifically [the section on Xubuntu](http://www.ubuntu.com/testing/natty/beta#Xubuntu)).

@@ -12,7 +12,7 @@ When you go to "Help" in the main menu in Xubuntu Firefox will launch and bring 
 
 After a couple of cycles without updates, the Xubuntu team worked hard this cycle to take a fresh look at the documentation. The team spent time reorganizing the structure, updating to reflect current default applications and in many cases completely rewriting whole sections. The look was also refreshed to reflect the current style and branding that the project has adopted.
 
-[![](/assets/articles/releases/2012/xubuntu_docs_1210-400x279.png "xubuntu_docs_1210")](http://xubuntu.org/assets/articles/releases/2012/xubuntu_docs_1210.png)
+![](/assets/articles/2012/xubuntu_docs_1210.png)
 
 The team would like to formally thank the following volunteers who made this effort possible:
 

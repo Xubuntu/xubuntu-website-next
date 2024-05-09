@@ -31,7 +31,7 @@ Along with the Beta 2 release of Xubuntu, we are proudly presenting our new bran
 
 ### Without further babble, our new logo in all its glory
 
-![Xubuntu logo, 2012 version. Light and dark background versions.](/assets/articles/releases/2012/logo-2012.png "Xubuntu logo 2012.")
+![Xubuntu logo, 2012 version. Light and dark background versions.](/assets/articles/2012/logo-2012.png "Xubuntu logo 2012.")
 
 The new logo has a more condensed look and features a more saturated blue. To avoid being superfluous on blue, the logotype is printed on dark grey. It can also be easily replaced with white on darker backgrounds.
 
@@ -41,7 +41,7 @@ The picmark is still based on the [Xfce](http://xfce.org/) mouse, but it's more 
 
 The new wallpaper consists of two parts to give dual-head users a better experience with default wallpapers for once. Here's the wallpaper in one, wide piece.
 
-![](/assets/articles/releases/2012/precise-wallpaper.png "Xubuntu Precise wallpaper")
+![](/assets/articles/2012/precise-wallpaper.png "Xubuntu Precise wallpaper")
 
 As some of you notice, the wallpaper has lots of elements previously seen on the Xubuntu wallpapers. That's right, it's intentional. Time to give some homage for the old times. We don't want to go too rusty or dusty, so there's some nice green stuff in, too.
 

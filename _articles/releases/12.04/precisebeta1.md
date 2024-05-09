@@ -18,7 +18,7 @@ Updates for this release include
 - Some default shortcuts have been changed and some added, see [DefaultShortcutKeys](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/DefaultShortcutKeys#Detailed_specification) for the complete list
 - New wallpaper and other tweaks and improvements to the looks of Xubuntu are in, including lots of GTK3 fixes for the Greybird theme.
 
-Visit the [download page](http://cdimage.ubuntu.com/xubuntu/releases/12.04/beta-1/) to give it a try. Be sure to report your testing results to help the Xubuntu developers – see the [ISO testing tracker](http://iso.qa.ubuntu.com/qatracker/build/xubuntu/all). Bugs can be [reported in Launchpad](https://launchpad.net/ubuntu/+filebug/). If you are looking for [support](http://xubuntu.org/help), please see the #ubuntu+1 or #xubuntu IRC channels on irc.freenode.net. Before testing this release, make sure to review the [release notes](https://wiki.ubuntu.com/PrecisePangolin/TechnicalOverview/Beta1).
+Visit the [download page](http://cdimage.ubuntu.com/xubuntu/releases/12.04/beta-1/) to give it a try. Be sure to report your testing results to help the Xubuntu developers – see the [ISO testing tracker](http://iso.qa.ubuntu.com/qatracker/build/xubuntu/all). Bugs can be [reported in Launchpad](https://launchpad.net/ubuntu/+filebug/). If you are looking for [support](/help)), please see the #ubuntu+1 or #xubuntu IRC channels on irc.freenode.net. Before testing this release, make sure to review the [release notes](https://wiki.ubuntu.com/PrecisePangolin/TechnicalOverview/Beta1).
 
 Known issues
 ------------

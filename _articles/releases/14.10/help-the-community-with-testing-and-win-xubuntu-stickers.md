@@ -1,7 +1,7 @@
 ---
 title:       "Help the Community with testing and win Xubuntu stickers"
 date:        2015-01-20 00:07:54
-release:     "14.10"
+release:     "15.04"
 serie:       
 category:    articles
 author:      Pasi Lallinaho
@@ -16,7 +16,14 @@ Unfortunately, manual testing can often be a tedious and thankless job for the c
 
 **We will be giving out** 7 [Xubuntu Sticker Bundles](http://www.unixstickers.com/stickers/linux_os_distribution_stickers/xubuntu-stickers-bundle) from now through April to selected top testers on the following schedule:
 
-<table><thead><tr><th>Timespan</th><th>Admissible test reports</th></tr></thead><tbody><tr><td>**February**</td><td>Test reports from start of cycle to 28th February</td></tr><tr><td>**Beta 1**</td><td>Tests reported during the milestone</td></tr><tr><td>**March**</td><td>Test reports from 1st March to 31st March</td></tr><tr><td>**Final Beta**</td><td>Tests reported during the milestone</td></tr><tr><td>**April**</td><td>Test reports from 1st April to 23rd April (end of the cycle)</td></tr><tr><td>**Final Release**</td><td>Tests reported during milestone</td></tr><tr><td>**Cycle**</td><td>Tests reported during the whole Vivid Vervet cycle</td></tr></tbody></table>
+| Timespan          | Admissible test reports                                      |
+| ----------------- | ------------------------------------------------------------ |
+| **February**      | Test reports from start of cycle to 28th February            |
+| **March**         | Test reports from 1st March to 31st March                    |
+| **Final Beta**    | Tests reported during the milestone                          |
+| **April**         | Test reports from 1st April to 23rd April (end of the cycle) |
+| **Final Release** | Tests reported during milestone                              |
+| **Cycle**         | Tests reported during the whole Vivid Vervet cycle           |
 
 Depending on the success of this initiative we'll look into adding Xubuntu t-shirts and Ubuntu books to the program during the LTS cycle leading up to April 2016.
 
@@ -30,7 +37,7 @@ To help us out with testing **and** be considered as a sticker bundle recipient,
 
 Learn more about ISO and package testing on the [Ubuntu wiki](https://wiki.ubuntu.com/QATeam/Roles/Tester).
 
-![Xubuntu Stickers](/assets/articles/releases/2015/xubuntu_stickers_1504-475x356.jpg)
+![Xubuntu Stickers](/assets/articles/2015/xubuntu_stickers_1504.jpg)
 
 Terms
 -----

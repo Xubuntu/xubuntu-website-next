@@ -12,7 +12,10 @@ The Xubuntu team is happy to announce the immediate release of Xubuntu 24.04.
 
 Xubuntu 24.04, codenamed **Noble Numbat**, is a long-term support (LTS) release and will be supported for 3 years, until 2027.
 
-<figure class="wp-block-image size-full">![](https://xubuntu.org/assets/articles/releases/2024/6515/xubuntu-24.04.png)<figcaption>Xubuntu 24.04, featuring the latest updates from Xfce 4.18 and GNOME 46.</figcaption></figure>Xubuntu 24.04 features the latest updates from Xfce 4.18, GNOME 46, and MATE 1.26. For new users and those coming from Xubuntu 22.04, you'll appreciate the performance, stability, and improved hardware support found in Xubuntu 24.04. Xfce 4.18 is stable, fast, and full of user-friendly features. Enjoy frictionless bluetooth headphone connections and out-of-the-box touchpad support. Updates to our icon theme and wallpapers make Xubuntu feel fresh and stylish.
+![](/assets/articles/2024/xubuntu-24.04.png)
+Xubuntu 24.04, featuring the latest updates from Xfce 4.18 and GNOME 46.
+
+Xubuntu 24.04 features the latest updates from Xfce 4.18, GNOME 46, and MATE 1.26. For new users and those coming from Xubuntu 22.04, you'll appreciate the performance, stability, and improved hardware support found in Xubuntu 24.04. Xfce 4.18 is stable, fast, and full of user-friendly features. Enjoy frictionless bluetooth headphone connections and out-of-the-box touchpad support. Updates to our icon theme and wallpapers make Xubuntu feel fresh and stylish.
 
 The **final release images** for **Xubuntu Desktop** and **Xubuntu Minimal** are available as torrents and direct downloads from [xubuntu.org/download/](https://xubuntu.org/download/).
 

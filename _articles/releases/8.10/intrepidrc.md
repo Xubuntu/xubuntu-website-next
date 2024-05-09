@@ -14,4 +14,4 @@ The Release Candidate of Xubuntu 8.10 "Intrepid Ibex" has arrived. This is a tes
 
 Before testing, be sure to take note of the [Known Issues](https://wiki.ubuntu.com/IntrepidIbex/RC/Xubuntu#Known%20Issues).
 
-If you are looking for [support](http://xubuntu.org/help), please see the #ubuntu+1 or #xubuntu IRC channels on irc.freenode.net.
+If you are looking for [support](/help)), please see the #ubuntu+1 or #xubuntu IRC channels on irc.freenode.net.

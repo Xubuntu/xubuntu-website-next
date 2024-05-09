@@ -21,7 +21,7 @@ The Grand Prize Winners
 
 ### Keith I Myers
 
-![](/assets/articles/2017/lovexubuntu-keithimyers-cookiecutters-small.jpg)
+![](/assets/articles/2017/lovexubuntu-keithimyers-cookiecutters.jpg)
 Xubuntu cookie cutters by Keith I Myers
 
 After seeing a simple metal cookie cutter created by the Xubuntu Marketing lead, Keith was inspired to make a plastic 3D-printed version of the Xubuntu cookie cutter. He printed several of them and also shared the design on Thingiverse so others could also print it.

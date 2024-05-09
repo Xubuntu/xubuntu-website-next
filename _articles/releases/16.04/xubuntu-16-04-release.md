@@ -14,8 +14,7 @@ The **final release images** are available as Torrents and direct downloads from
 
 As the main server will be very busy in the first few days after release, we recommend using the Torrents wherever possible.
 
-![Xubuntu 16.04 LTS release art](https://xubuntu.org/assets/articles/releases/2016/d09c/xerus-release-art-700.png)
-Xubuntu 16.04 LTS
+![Xubuntu 16.04 LTS release art](/assets/articles/2016/xerus-release-art-700.png)
 
 Support
 -------
@@ -27,7 +26,7 @@ Highlights and Known Issues
 
 ### Highlights
 
-- [New community wallpapers](https://xubuntu.org/news/xubuntu-16-04-wallpaper-competition-winners/)
+- [New community wallpapers](/news/xubuntu-16-04-wallpaper-competition-winners/)
 - Ubuntu Software Centre replaced by GNOME Software
 
 ### Known Issues

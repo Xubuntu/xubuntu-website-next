@@ -18,7 +18,7 @@ Updates for this release include
 
 In addition, starting from the Quantal cycle, Xubuntu will not support Wubi installations.
 
-Visit the [download page](http://cdimage.ubuntu.com/xubuntu/releases/12.10/alpha-2/) to give it a try. Be sure to report your testing results to help the Xubuntu developers – see the [ISO testing tracker](http://iso.qa.ubuntu.com/qatracker/build/xubuntu/all). Bugs can be [reported in Launchpad](https://launchpad.net/ubuntu/+filebug/). If you are looking for [support](http://xubuntu.org/help), please see the #ubuntu+1 IRC channel on irc.freenode.net. Before testing this release, make sure to review the [release notes](https://wiki.ubuntu.com/QuantalQuetzal/TechnicalOverview/Alpha2).
+Visit the [download page](http://cdimage.ubuntu.com/xubuntu/releases/12.10/alpha-2/) to give it a try. Be sure to report your testing results to help the Xubuntu developers – see the [ISO testing tracker](http://iso.qa.ubuntu.com/qatracker/build/xubuntu/all). Bugs can be [reported in Launchpad](https://launchpad.net/ubuntu/+filebug/). If you are looking for [support](/help)), please see the #ubuntu+1 IRC channel on irc.freenode.net. Before testing this release, make sure to review the [release notes](https://wiki.ubuntu.com/QuantalQuetzal/TechnicalOverview/Alpha2).
 
 Known issues
 ------------

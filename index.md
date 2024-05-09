@@ -19,7 +19,7 @@ layout: default
 <hr />
 <section class="columns-2">
    <div class="icon-side">
-      <img src="{{ "/assets/images/icon_help.svg" | relative_url }}" alt="Help!" />
+      <img src="{{ "/assets/pages/icon_help.svg" | relative_url }}" alt="Help!" />
       <div>
          <h3>Need help?</h3>
          <p>User documentation is shipped with each version of Xubuntu. For further assistance, check all available support methods.</p>
@@ -27,7 +27,7 @@ layout: default
       </div>
    </div>
    <div class="icon-side">
-      <img src="{{ "/assets/images/icon_community.svg" | relative_url }}" alt="Join our community" />
+      <img src="{{ "/assets/pages/icon_community.svg" | relative_url }}" alt="Join our community" />
       <div>
          <h3>Join our community</h3>
          <p>Xubuntu is created by volunteers.<br />Read more on how you can get involved and help us make Xubuntu even better!</p>

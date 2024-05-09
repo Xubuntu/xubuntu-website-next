@@ -40,13 +40,15 @@ As the titles alone can tell you, the three council members all have a strong hi
 Interviewing the Council
 ------------------------
 
-<!-- [gallery link="none" size="full" ids="4227,4228,4226"] -->
+![Sean Davis](/assets/articles/2016/xubuntu-council-2016-sean.jpg)
+![Simon Steinbeiß](/assets/articles/2016/xubuntu-council-2016-simon.jpg)
+![Pasi Lallinaho](/assets/articles/2016/xubuntu-council-2016-pasi.jpg)
 
 ### What inspired you to get involved with the Xubuntu project?
 
 **Sean:** I started using Xubuntu in 2006 (when it was first released) and used it all throughout college and into my career. I started reporting bugs to the project in 2012 and contributing to the Ubuntu community later that year. My (selfish) inspiration was that I wanted to make my preferred operating system even better!
 
-**Simon:** When Dapper Drake saw the light of day 10 years ago (I know, it's incredible - it's been a decade!) and I started using LInux my first choice was - and this has never changed - Xfce and Ubuntu. At first I never thought I would be fit to contribute, but the warm welcome from the amazing community around these projects pulled me in.
+**Simon:** When Dapper Drake saw the light of day 10 years ago (I know, it's incredible - it's been a decade!) and I started using Linux my first choice was - and this has never changed - Xfce and Ubuntu. At first I never thought I would be fit to contribute, but the warm welcome from the amazing community around these projects pulled me in.
 
 **Pasi:** When I converted to Linux from Windows for good in 2006, I started contributing to the Amarok project, my media player of choice back then. A few years later my contributions there slowed down at it felt like a natural step to start working with the operating system I was using.
 

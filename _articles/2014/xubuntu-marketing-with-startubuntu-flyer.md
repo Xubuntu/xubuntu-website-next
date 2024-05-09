@@ -18,10 +18,10 @@ If your language isn't represented yet, we encourage you to create translations 
 
 Ready to see it in the wild? A contributor at the University of Toledo, Ohio, USA has posted it at the University:
 
-[![ohio_start_ubuntu-xubuntu](/assets/articles/2014/ohio_start_ubuntu-xubuntu.jpg)]
+![ohio_start_ubuntu-xubuntu](/assets/articles/2014/ohio_start_ubuntu-xubuntu.jpg)
 
 Elizabeth has also printed out flyers to have them on hand at the upcoming [Southern California Linux Expo](https://www.socallinuxexpo.org/scale12x) in Los Angeles, California:
 
-[![california_start_ubuntu-xubuntu](/assets/articles/2014/california_start_ubuntu-xubuntu.jpg)]
+![california_start_ubuntu-xubuntu](/assets/articles/2014/california_start_ubuntu-xubuntu.jpg)
 
 Thanks to everyone who has contributed so far. We're looking forward to seeing more translations, remixes and pictures of printed copies around the world.

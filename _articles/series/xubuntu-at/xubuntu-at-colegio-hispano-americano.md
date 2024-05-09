@@ -17,7 +17,7 @@ Can you tell us a bit about your role at the Private School Colegio Hispano Amer
 
 My role at the Colegio Hispano Americano is a teacher but also I'm in charge of the computer lab. This private school has Pre-K to 12th grade students.
 
-[![PR-xubuntu-lab2](/assets/articles/series/PR-xubuntu-lab2-475x267.jpg)](/assets/articles/series/PR-xubuntu-lab2.jpg)
+![](/assets/articles/2015/PR-xubuntu-lab2.jpg)
 
 What influenced your decision to use Open Source Software at the school?
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ Can you tell us a bit about your Xubuntu setup – customizations made, how inst
 
 I installed Xubuntu to 20 used computers Intel Core 2 Duo with 2GB RAM. I used a router and 3 switches to connect them to the network and to my main computer which I monitor, see and administrate each one from my master PC using Epoptes administration software. With it I can see, control or command to open any application in each students computer. (Epoptes is in the Ubuntu Software Center) We painted or classroom with blue and white (for Xubuntu colors). We drew and painted a Linux Penguin Logo in the wall! We still need to draw the mouse from the Xubuntu logo. It's a Xubuntu Lab!
 
-[![PR-xubuntu-lab1](/assets/articles/series/PR-xubuntu-lab1-475x267.jpg)](/assets/articles/series/PR-xubuntu-lab1.jpg)
+![](/assets/articles/2015/PR-xubuntu-lab1.jpg)
 
 Is there anything else you wish to share with us about your organization or how you use Xubuntu?
 ------------------------------------------------------------------------------------------------

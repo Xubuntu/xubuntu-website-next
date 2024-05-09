@@ -14,4 +14,4 @@ The beta of Xubuntu 9.10 "Karmic Koala" has arrived. This is a testing build des
 
 [Visit the download page](http://cdimage.ubuntu.com/xubuntu/releases/9.10/beta/) to give it a try. Be sure to report your testing results to help the Xubuntu developers - see [the ISO testing tracker](http://iso.qa.ubuntu.com/qatracker/build/xubuntu/all), [Bugs can be reported in Launchpad](https://launchpad.net/ubuntu/+filebug/).
 
-If you are looking for [support](http://xubuntu.org/help), please see the #ubuntu+1 or #xubuntu IRC channels on irc.freenode.net.
+If you are looking for [support](/help)), please see the #ubuntu+1 or #xubuntu IRC channels on irc.freenode.net.

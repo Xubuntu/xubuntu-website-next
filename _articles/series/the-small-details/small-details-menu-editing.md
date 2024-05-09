@@ -27,4 +27,7 @@ Adding launchers is slightly more complicated, but only because there are more s
 
 The MenuLibre documentation is available online at [https://smdavis.us/doku/doku.php?id=menulibre\_usage](https://smdavis.us/doku/doku.php?id=menulibre_usage).
 
-<!-- [gallery columns="4" size="xubuntu\_split\_to\_4" ids="3845,3846,3844,3843"] -->
+![](/assets/articles/2016/menulibre-search.png)
+![](/assets/articles/2016/menulibre-ui.png)
+![](/assets/articles/2016/settingsmanager-menulibre.png)
+![](/assets/articles/2016/whisker-editapps.png)

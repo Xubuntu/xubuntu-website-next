@@ -17,10 +17,10 @@ Default shortcuts
 
 For convenience, some default application can be launched with shortcuts that use the Super key (usually the "Windows" key) and a letter associated with the task (underlined):
 
-- **Super+E** for the text <span style="text-decoration: underline;">e</span>ditor (Mousepad)
-- **Super+F** for the <span style="text-decoration: underline;">f</span>ile manager (Thunar)
-- **Super+M** for the e<span style="text-decoration: underline;">m</span>ail client (Thunderbird)
-- **Super+T** for the <span style="text-decoration: underline;">t</span>erminal emulator (Xfce4 Terminal)
-- **Super+W** for the <span style="text-decoration: underline;">w</span>eb browser (Firefox)
+- **Super+E** for the text **e**ditor (Mousepad)
+- **Super+F** for the **f**ile manager (Thunar)
+- **Super+M** for the e**m**ail client (Thunderbird)
+- **Super+T** for the **t**erminal emulator (Xfce4 Terminal)
+- **Super+W** for the **w**eb browser (Firefox)
 
 You can find all the application shortcut keys from **Menu → Settings Manager → Keyboard → tab Application Shortcuts**. You can also easily **Add** new shortcuts from this dialog.

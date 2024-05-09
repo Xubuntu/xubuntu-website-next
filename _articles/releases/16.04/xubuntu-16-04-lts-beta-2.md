@@ -12,7 +12,7 @@ The Xubuntu team is pleased to announce the immediate release of Xubuntu 16.04 L
 
 Any new updates to packages should be bug fixes only, the Xubuntu team is committed to fixing as many of the bugs as possible before the final release.
 
-**<span style="color: rgba( 180, 0, 0, 1 );">Please note!</span>** Minimal upgrade testing was undertaken during this milestone. There are issues currently when upgrading to Xenial Xerus. **This release is not recommended for upgrading.** More information can be found from the [release notes](https://wiki.ubuntu.com/XenialXerus/Beta2/Xubuntu).
+**Please note!** Minimal upgrade testing was undertaken during this milestone. There are issues currently when upgrading to Xenial Xerus. **This release is not recommended for upgrading.** More information can be found from the [release notes](https://wiki.ubuntu.com/XenialXerus/Beta2/Xubuntu).
 
 Download
 --------
