@@ -5,7 +5,7 @@ release:     "12.10"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The Xubuntu team is proud to announce the Alpha3 release of Xubuntu 12.10, Quantal Quetzal!

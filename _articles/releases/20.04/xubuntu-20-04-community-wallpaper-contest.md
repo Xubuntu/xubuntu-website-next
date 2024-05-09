@@ -5,7 +5,7 @@ release:     "20.04"
 serie:       
 category:    articles
 author:      Sean Davis
-author_nick: smd-seandavis
+author_nick: bluesabre
 ---
 
 We’re on our way to the 20.04 LTS release and it’s time for another community wallpaper contest!

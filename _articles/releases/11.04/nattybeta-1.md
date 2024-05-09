@@ -5,7 +5,7 @@ release:     "11.04"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The first beta release of Xubuntu 11.04 "Natty Narwhal" has arrived. This is a testing build designed for developers and is **not suggested for anyone looking for a stable system**. The second beta will be released April 14th, and will replace the traditional Release Candidate.

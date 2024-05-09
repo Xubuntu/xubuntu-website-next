@@ -5,7 +5,7 @@ release:     "12.10"
 serie:       
 category:    articles
 author:      Simon Steinbeiß
-author_nick: simon-steinbeiss
+author_nick: ochosi
 ---
 
 While there are many people who project a competition between Ubuntu and its flavors, I'd like to set a (small) sign that this is definitely not the case.
@@ -26,6 +26,6 @@ If you find any bugs please [file them on launchpad](https://bugs.launchpad.net/
 
 And finally, since everyone loves screenshots, here go a few of Unity with Greybird in action, taken by our tester Carlos.
 
-[![](/wp-content/uploads/2012/04/Captura-de-2012-04-24-101737-150x150.png "Greybird in Unity, Dash")](/wp-content/uploads/2012/04/Captura-de-2012-04-24-101737.png) [![Greybird in Unity, Nautilus and gnome-terminal](/wp-content/uploads/2012/04/Captura-de-2012-04-24-102147-150x150.png "Greybird in Unity, Nautilus and gnome-terminal")](/wp-content/uploads/2012/04/Captura-de-2012-04-24-102147.png) [![](/wp-content/uploads/2012/04/Captura-de-2012-04-24-101847-150x150.png "Greybird in Unity, Keyboard-Shortcuts Overlay")](/wp-content/uploads/2012/04/Captura-de-2012-04-24-101847.png) [![](/wp-content/uploads/2012/04/Captura-de-2012-04-19-202942-150x150.png "Greybird in Unity, Rhythmbox and the Sound-Menu")](/wp-content/uploads/2012/04/Captura-de-2012-04-19-202942.png)
+[![](/assets/articles/releases/2012/Captura-de-2012-04-24-101737-150x150.png "Greybird in Unity, Dash")](/assets/articles/releases/2012/Captura-de-2012-04-24-101737.png) [![Greybird in Unity, Nautilus and gnome-terminal](/assets/articles/releases/2012/Captura-de-2012-04-24-102147-150x150.png "Greybird in Unity, Nautilus and gnome-terminal")](/assets/articles/releases/2012/Captura-de-2012-04-24-102147.png) [![](/assets/articles/releases/2012/Captura-de-2012-04-24-101847-150x150.png "Greybird in Unity, Keyboard-Shortcuts Overlay")](/assets/articles/releases/2012/Captura-de-2012-04-24-101847.png) [![](/assets/articles/releases/2012/Captura-de-2012-04-19-202942-150x150.png "Greybird in Unity, Rhythmbox and the Sound-Menu")](/assets/articles/releases/2012/Captura-de-2012-04-19-202942.png)
 
 *The author of this post is Simon Steinbeiß, who is the Xubuntu Artwork Lead. In addition to Xubuntu, he works extensively on the [Shimmer Project](http://www.shimmerproject.org "Shimmer Project") and the [Xfce Design SIG](http://wiki.xfce.org/design/start "Xfce Design SIG").*

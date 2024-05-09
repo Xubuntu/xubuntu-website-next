@@ -8,7 +8,8 @@ author:      Pasi Lallinaho
 author_nick: knome
 ---
 
-\[caption id="attachment\_3108" align="alignright" width="290"\]![Xubuntu 15.04 Vivid Vervet](/wp-content/uploads/2015/04/vervet-artwork.png) Xubuntu 15.04 Vivid Vervet\[/caption\]
+![Xubuntu 15.04 Vivid Vervet](/assets/articles/releases/2015/vervet-artwork.png)
+Xubuntu 15.04 Vivid Vervet
 
 The Xubuntu team is pleased to announce the immediate release of Xubuntu 15.04!
 

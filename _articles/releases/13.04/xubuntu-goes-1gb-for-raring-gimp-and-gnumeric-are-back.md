@@ -5,7 +5,7 @@ release:     "13.04"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The Xubuntu team had an extra meeting on Monday to discuss and decide a possible move to a bigger ISO size and other important issues for Raring.

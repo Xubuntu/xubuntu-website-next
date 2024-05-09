@@ -40,9 +40,9 @@ As the titles alone can tell you, the three council members all have a strong hi
 Interviewing the Council
 ------------------------
 
-<div style="margin: 2em 0 -1em 0;">\[gallery link="none" size="full" ids="4227,4228,4226"\]
+<!-- [gallery link="none" size="full" ids="4227,4228,4226"] -->
 
-</div>### What inspired you to get involved with the Xubuntu project?
+### What inspired you to get involved with the Xubuntu project?
 
 **Sean:** I started using Xubuntu in 2006 (when it was first released) and used it all throughout college and into my career. I started reporting bugs to the project in 2012 and contributing to the Ubuntu community later that year. My (selfish) inspiration was that I wanted to make my preferred operating system even better!
 

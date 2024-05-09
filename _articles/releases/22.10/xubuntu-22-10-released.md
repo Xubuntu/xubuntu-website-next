@@ -5,14 +5,14 @@ release:     "22.10"
 serie:       
 category:    announcements
 author:      Sean Davis
-author_nick: smd-seandavis
+author_nick: bluesabre
 ---
 
 The Xubuntu team is happy to announce the immediate release of Xubuntu 22.10.
 
 Xubuntu 22.10, codenamed **Kinetic Kudu**, is a regular release and will be supported for 9 months, until July 2023.
 
-<figure class="wp-block-image size-full">![](https://xubuntu.org/wp-content/uploads/2022/10/c536/xubuntu-22.10.png)<figcaption>Xubuntu 22.10, featuring the latest updates from Xfce 4.17, GNOME 43, and MATE 1.26.</figcaption></figure>Xubuntu 22.10 features the latest updates from Xfce 4.17, GNOME 43, and MATE 1.26. The "bleeding edge" Xfce 4.17 components are included as an early preview to the upcoming Xfce 4.18, expected later this year. You'll find that Xfce 4.17 includes many new features and usability improvements while using Xubuntu 22.10. While we've tested each component shipped in Xubuntu, new bugs and regressions are expected. Please be sure to report any bugs you find.
+<figure class="wp-block-image size-full">![](https://xubuntu.org/assets/articles/releases/2022/c536/xubuntu-22.10.png)<figcaption>Xubuntu 22.10, featuring the latest updates from Xfce 4.17, GNOME 43, and MATE 1.26.</figcaption></figure>Xubuntu 22.10 features the latest updates from Xfce 4.17, GNOME 43, and MATE 1.26. The "bleeding edge" Xfce 4.17 components are included as an early preview to the upcoming Xfce 4.18, expected later this year. You'll find that Xfce 4.17 includes many new features and usability improvements while using Xubuntu 22.10. While we've tested each component shipped in Xubuntu, new bugs and regressions are expected. Please be sure to report any bugs you find.
 
 The **final release images** are available as torrents and direct downloads from [xubuntu.org/download/](https://xubuntu.org/download/).
 

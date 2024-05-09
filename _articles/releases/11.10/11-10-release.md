@@ -5,7 +5,7 @@ release:     "11.10"
 serie:       
 category:    announcements
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 There are a few times when, through hard work and diligence, we get things right. The developers and contributors of Xubuntu 11.10 “Oneiric Ocelot” believe they have it right. They are proud to announce the release of Xubuntu 11.10, "Oneiric Ocelot". Through the outstanding efforts of all involved, this sleek and smooth release offered for your enjoyment and use.

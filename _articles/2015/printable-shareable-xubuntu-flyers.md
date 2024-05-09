@@ -5,20 +5,20 @@ release:     ""
 serie:       
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 During the Wily Werewolf development cycle, the Xubuntu Marketing team has completed work on flyers that can now be printed by anyone wishing to promote Xubuntu at conferences, global jams, release parties and other events.
 
-![](/wp-content/uploads/2015/09/flyer-teaser.png)
+![](/assets/articles/2015/flyer-teaser.png)
 
 Flyers can be printed at home or with any typical printing service. A successful trial run of 25 US letter-sized flyers was completed in August by our marketing lead:
 
-[![xubuntu_flyers_printed](/wp-content/uploads/2015/09/xubuntu_flyers_printed-475x633.jpg)](/wp-content/uploads/2015/09/xubuntu_flyers_printed.jpg)
+[![xubuntu_flyers_printed](/assets/articles/2015/xubuntu_flyers_printed-475x633.jpg)](/assets/articles/2015/xubuntu_flyers_printed.jpg)
 
 They're available for download here:
 
-[**A4** (web)](/wp-content/uploads/2014/01/flyer_A4_web.pdf)[**A4** (print)](/wp-content/uploads/2014/01/flyer_A4_print.pdf)[**US letter** (web)](/wp-content/uploads/2014/01/flyer_USletter_web.pdf)[**US letter** (print)](/wp-content/uploads/2014/01/flyer_USletter_print.pdf)
+[**A4** (web)](/assets/articles/2014/flyer_A4_web.pdf)[**A4** (print)](/assets/articles/2014/flyer_A4_print.pdf)[**US letter** (web)](/assets/articles/2014/flyer_USletter_web.pdf)[**US letter** (print)](/assets/articles/2014/flyer_USletter_print.pdf)
 
 Licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/), you are welcome to freely remix, transform, and build upon the material under the terms of that license. Source (SVG files, editable in Inkscape) are available in the [Xubuntu marketing code repository](https://code.launchpad.net/xubuntu-marketing).
 

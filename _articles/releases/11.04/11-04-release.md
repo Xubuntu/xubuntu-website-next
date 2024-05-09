@@ -5,7 +5,7 @@ release:     "11.04"
 serie:       
 category:    announcements
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 Xubuntu 11.04, codenamed the "Natty Narwhal", is the latest and greatest version of Xubuntu, released on April 28th, 2011. Building on the success of Xubuntu 10.10, Xubuntu 11.04 looks forward to continuing the tradition of being a light-weight and easy-to-use Linux distribution built on top of the high-quality and feature-rich core of Ubuntu.

@@ -22,8 +22,8 @@ If you still have problems please join the forums or IRC channels and feel free 
 
 Xubuntu uses the same software sources (package repositories) than the rest of the Ubuntu family, that means you can install any software in Ubuntu in Xubuntu as well. To do this, use one of the following:
 
-- **Ubuntu Software Center** in ![](/wp-content/uploads/2011/11/menu_16.png "Applications menu") Applications menu **»** ![](/wp-content/uploads/2011/11/softwarecenter_synaptic_16.png "Ubuntu Software Center") Ubuntu Software Center
-- **Synaptic Package Manager** in ![](/wp-content/uploads/2011/11/menu_16.png "Applications menu") Applications menu **»** ![](/wp-content/uploads/2011/11/system_16.png "System") System **»** ![](/wp-content/uploads/2011/11/softwarecenter_synaptic_16.png "Synaptic Package Manager") Synaptic Package Manager
+- **Ubuntu Software Center** in ![](/assets/articles/releases/2011/menu_16.png "Applications menu") Applications menu **»** ![](/assets/articles/releases/2011/softwarecenter_synaptic_16.png "Ubuntu Software Center") Ubuntu Software Center
+- **Synaptic Package Manager** in ![](/assets/articles/releases/2011/menu_16.png "Applications menu") Applications menu **»** ![](/assets/articles/releases/2011/system_16.png "System") System **»** ![](/assets/articles/releases/2011/softwarecenter_synaptic_16.png "Synaptic Package Manager") Synaptic Package Manager
 - **apt-get**
 
 ### 3. How do I configure my network connection?
@@ -38,7 +38,7 @@ You have to delete `~/.gnome2/keyrings` and start over.
 
 You can restore window decorations by pressing Alt+F2 and running `xfwm4`. To restore panels, press Alt+F2 and run `xfce4-panel`.
 
-If the window decorations and/or panels don’t start automatically on login, add the respective commands to your session from ![](/wp-content/uploads/2011/11/menu_16.png "Applications menu") Applications Menu **»** Settings » Settings Manager in Session and Startup on the Application Autostart tab.
+If the window decorations and/or panels don’t start automatically on login, add the respective commands to your session from ![](/assets/articles/releases/2011/menu_16.png "Applications menu") Applications Menu **»** Settings » Settings Manager in Session and Startup on the Application Autostart tab.
 
 ### 6. How can I edit the Start Menu?
 

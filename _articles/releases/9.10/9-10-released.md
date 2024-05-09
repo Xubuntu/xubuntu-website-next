@@ -5,7 +5,7 @@ release:     "9.10"
 serie:       
 category:    announcements
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 Xubuntu 9.10, codenamed the "Karmic Koala", is the latest and greatest version of Xubuntu, released on October 29th, 2009. It integrates the latest Xfce-desktop releases with the high-quality and feature-rich core of Ubuntu, resulting in a light-weight and easy-to-use Linux distribution.

@@ -5,7 +5,7 @@ release:     "9.04"
 serie:       
 category:    announcements
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 Xubuntu 9.04, codenamed the "Jaunty Jackalope", is the latest and greatest version of Xubuntu, released on April 23, 2009. It integrates the latest Xfce-desktop releases with the high-quality and feature-rich core of Ubuntu, resulting in a light-weight and easy-to-use Linux distribution.

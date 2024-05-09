@@ -5,7 +5,7 @@ release:     "11.04"
 serie:       
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 As one of Xubuntu's artwork contributors and member of the [Shimmerproject](http://www.shimmerproject.org) I would like to take some time now - towards the end of this cycle - and discuss (at least parts of) the design process during the development phase for Natty (11.04). This is planned as a *review* and in a way (implicitely) a *preview*: you can see the direction Xubuntu is heading for since Maverick and Natty and hopefully the project will continue this way.

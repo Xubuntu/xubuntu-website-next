@@ -5,7 +5,7 @@ release:     "9.04"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The Release Candidate of Xubuntu 9.04 "Jaunty Jackalope" has arrived. This is a testing build designed for developers and is **not suggested for anyone looking for a stable system**. If you would like to see what is new in the beta release, please see the [Release Announcement](https://wiki.ubuntu.com/Xubuntu/JauntyJackalope/BetaAnnouncement).

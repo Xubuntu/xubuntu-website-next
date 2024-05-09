@@ -5,7 +5,7 @@ release:     "11.10"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 ***Another great milestone reached: Xubuntu 11.10 Oneiric Ocelot Alpha 2 released***

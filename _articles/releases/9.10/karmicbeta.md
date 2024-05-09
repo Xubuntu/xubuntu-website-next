@@ -5,7 +5,7 @@ release:     "9.10"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 **The beta has now been superseded by [the release candidate](http://www.xubuntu.org/news/karmic/rc), links on this page will not work.**

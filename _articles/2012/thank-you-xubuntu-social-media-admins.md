@@ -5,7 +5,7 @@ release:     ""
 serie:       
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 In the past year the Xubuntu project has gone from zero to four social media outlets for sharing our project updates, news and discussions. All of these resources are linked at the bottom of every page on Xubuntu.org.

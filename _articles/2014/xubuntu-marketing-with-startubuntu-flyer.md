@@ -5,7 +5,7 @@ release:     ""
 serie:       
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The [StartUbuntu](https://wiki.ubuntu.com/StartUbuntu) project seeks to spread Ubuntu to individuals and organizations who are migrating away from Windows XP when support runs out later this year. As one of their initiatives, Pierre van Male created a flyer featuring Ubuntu and Linux Mate ([available here](http://spreadubuntu.org/en/material/poster/start-ubuntu-addis-announcement), A4 size only). We decided that this would be a great opportunity to create our own variation - with Xubuntu!
@@ -18,10 +18,10 @@ If your language isn't represented yet, we encourage you to create translations 
 
 Ready to see it in the wild? A contributor at the University of Toledo, Ohio, USA has posted it at the University:
 
-[![ohio_start_ubuntu-xubuntu](/wp-content/uploads/2014/02/ohio_start_ubuntu-xubuntu.jpg)](/wp-content/uploads/2014/02/ohio_start_ubuntu-xubuntu.jpg)
+[![ohio_start_ubuntu-xubuntu](/assets/articles/2014/ohio_start_ubuntu-xubuntu.jpg)]
 
 Elizabeth has also printed out flyers to have them on hand at the upcoming [Southern California Linux Expo](https://www.socallinuxexpo.org/scale12x) in Los Angeles, California:
 
-[![california_start_ubuntu-xubuntu](/wp-content/uploads/2014/02/california_start_ubuntu-xubuntu.jpg)](/wp-content/uploads/2014/02/california_start_ubuntu-xubuntu.jpg)
+[![california_start_ubuntu-xubuntu](/assets/articles/2014/california_start_ubuntu-xubuntu.jpg)]
 
 Thanks to everyone who has contributed so far. We're looking forward to seeing more translations, remixes and pictures of printed copies around the world.

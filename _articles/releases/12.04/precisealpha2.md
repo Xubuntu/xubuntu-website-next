@@ -5,7 +5,7 @@ release:     "12.04"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The Xubuntu team is proud to announce the Alpha2 release of Xubuntu 12.04, Precise Pangolin!

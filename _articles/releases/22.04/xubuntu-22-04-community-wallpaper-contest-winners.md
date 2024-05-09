@@ -5,7 +5,7 @@ release:     "22.04"
 serie:       
 category:    
 author:      Sean Davis
-author_nick: smd-seandavis
+author_nick: bluesabre
 ---
 
 The Xubuntu team is happy to announce the results of the 22.04 community wallpaper contest!
@@ -14,7 +14,7 @@ As always, we'd like to send out a huge thanks to every contestant. The Xubuntu 
 
 Without further ado, here are the winners:
 
-<figure class="wp-block-image size-full">![](https://xubuntu.org/wp-content/uploads/2022/04/8da6/xubuntu-wallpaper-contest-winners.jpg)</figure>From left to right, top to bottom. Click on the links for full-size image versions.
+<figure class="wp-block-image size-full">![](https://xubuntu.org/assets/articles/releases/2022/8da6/xubuntu-wallpaper-contest-winners.jpg)</figure>From left to right, top to bottom. Click on the links for full-size image versions.
 
 - ["Kanchanjunga Peaks" by Pushkar Deshpande (CC-BY-4.0)](https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Kanchanjunga_Peaks_by_Pushkar_Deshpande.jpg)
 - ["Journey home" by Juliette Taka (CC-BY-4.0)](https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Journey_home_by_Juliette_Taka.png)

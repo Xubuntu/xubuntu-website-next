@@ -5,7 +5,7 @@ release:     "10.10"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The release candidate of Xubuntu 10.10 "Maverick Meerkat" has arrived. This is a testing build designed for developers and is **not suggested for anyone looking for a stable system**. If you would like to see what is new in this RC release, please see the notes on Xubuntu in [the Ubuntu Release Notes](https://wiki.ubuntu.com/MaverickMeerkat/TechnicalOverview#Xubuntu).

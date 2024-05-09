@@ -5,7 +5,7 @@ release:     "10.04"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The second beta release of Xubuntu 10.04 "Lucid Lynx" has arrived. This is a testing build designed for developers and is **not suggested for anyone looking for a stable system**. If you would like to see what is new in the beta release, please see the [Release Notes](https://wiki.ubuntu.com/Xubuntu/LucidLynx/Beta2).

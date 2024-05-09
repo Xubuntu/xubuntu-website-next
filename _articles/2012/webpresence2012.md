@@ -5,7 +5,7 @@ release:     ""
 serie:       
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 After a long, long wait and much hard work, we are ready to proudly present the new Xubuntu website!

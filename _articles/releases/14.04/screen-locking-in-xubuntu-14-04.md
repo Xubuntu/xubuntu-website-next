@@ -5,14 +5,14 @@ release:     "14.04"
 serie:       
 category:    articles
 author:      Simon Steinbeiß
-author_nick: simon-steinbeiss
+author_nick: ochosi
 ---
 
 Improving screenlocking (or: sessionlocking) has been on our agenda for a few cycles now. We've used the old and proven XScreensaver for a few releases, but people have always complained about its antiquated looks (which are also not customizable). Switching to gnome-screensaver wasn't an option because of the additional package dependencies. Furthermore, after gnome-screensaver 3.6, locking became more tightly integrated into Gnome-Shell, which is why Ubuntu/Unity kept version 3.6 and has maintained it for a few releases now.
 
 Starting with 14.04, Ubuntu/Unity have switched to a new solution for locking, and so have we.
 
-\[gallery columns="2" size="medium" link="file" ids="2501,2500"\]
+<!-- [gallery columns="2" size="medium" link="file" ids="2501,2500"] -->
 
 The solution Xubuntu uses in 14.04 is called **light-locker**. The light-locker project is a fork of gnome-screensaver 3.6, but cut down to a bare minimum (so no gnome-dependencies), using LightDM's greeter as the lock (and unlock) screen.
 

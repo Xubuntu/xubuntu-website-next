@@ -5,7 +5,7 @@ release:     ""
 serie:       
 category:    articles
 author:      Sean Davis
-author_nick: smd-seandavis
+author_nick: bluesabre
 ---
 
 On Tuesday, May 18th, the [Xubuntu Team voted](http://ubottu.com/meetingology/logs/xubuntu-devel/2020/xubuntu-devel.2020-05-19-21.02.log.html#l-120) to migrate some of our infrastructure away from Launchpad to [GitHub](https://github.com/Xubuntu) for code hosting, while translations are now on [Transifex](https://www.transifex.com/xubuntu/public/). Here's a summary of the changes:

@@ -5,7 +5,7 @@ release:     "12.04"
 serie:       
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 **Xubuntu Beta 2 is coming out this week and we need testers!**

@@ -10,11 +10,7 @@ author_nick: knome
 
 The Xubuntu team is happy to announce the immediate release of Xubuntu 18.04. Xubuntu 18.04 is a long-term support (LTS) release and will be supported for 3 years, until April 2021.
 
-The **final release images** are available as torrents immediately from the links below.
-
-\[torrents release=18-04\]
-
-> The images are also available as direct downloads from [xubuntu.org/getxubuntu/](https://xubuntu.org/getxubuntu/). As the main server and mirrors might be busy for the first few days after the release, we recommend using the torrents if possible.
+The **final release images** are available as torrents and direct downloads immediately from [xubuntu.org/getxubuntu/](https://xubuntu.org/getxubuntu/). As the main server and mirrors might be busy for the first few days after the release, we recommend using the torrents if possible.
 
 **Xubuntu Core**, our minimal installation option, is available to download from [unit193.net/xubuntu/core/](https://unit193.net/xubuntu/core/) \[[64-bit magnet](magnet:?xt=urn:btih:7728679d017e596021153147e80bceff2062445f&dn=xubuntu-18.04-core-amd64.iso&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2feddie4.nl%3a6969&tr=udp%3a%2f%2ftracker.pirateparty.gr%3a6969&tr=udp%3a%2f%2fopentrackr.org%3a1337&tr=udp%3a%2f%2ftracker.zer0day.to%3a1337), [32-bit magnet](magnet:?xt=urn:btih:997ddaa25ea5559188427dc75e310718d2637787&dn=xubuntu-18.04-core-i386.iso&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2feddie4.nl%3a6969&tr=udp%3a%2f%2ftracker.pirateparty.gr%3a6969&tr=udp%3a%2f%2fopentrackr.org%3a1337&tr=udp%3a%2f%2ftracker.zer0day.to%3a1337)\]. Find out more about Xubuntu Core [here](https://unit193.net/xubuntu/).
 

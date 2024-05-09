@@ -5,7 +5,7 @@ release:     "11.10"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The first beta release of Xubuntu 11.10 "Oneiric Ocelot" has arrived. The developers are working hard to make Xubuntu 11.10 one of the best Linux distributions yet. They are striving to ensure that everything will work for all users, and instead of many changes, are working to ensure the release is very stable and secure.

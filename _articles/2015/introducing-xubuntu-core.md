@@ -5,7 +5,7 @@ release:     ""
 serie:       
 category:    
 author:      Simon Steinbeiß
-author_nick: simon-steinbeiss
+author_nick: ochosi
 ---
 
 Xubuntu core is a slimmed down version of Xubuntu that doesn’t come with all the additional features of a full and modern desktop. We essentially only ship Xfce and the basic look and feel of Xubuntu, so there will be no office suite, media players, et cetera.

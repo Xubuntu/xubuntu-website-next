@@ -30,7 +30,7 @@ To help us out with testing **and** be considered as a sticker bundle recipient,
 
 Learn more about ISO and package testing on the [Ubuntu wiki](https://wiki.ubuntu.com/QATeam/Roles/Tester).
 
-![Xubuntu Stickers](/wp-content/uploads/2015/01/xubuntu_stickers_1504-475x356.jpg)
+![Xubuntu Stickers](/assets/articles/releases/2015/xubuntu_stickers_1504-475x356.jpg)
 
 Terms
 -----

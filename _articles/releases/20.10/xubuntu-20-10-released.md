@@ -5,7 +5,7 @@ release:     "20.10"
 serie:       
 category:    announcements
 author:      Sean Davis
-author_nick: smd-seandavis
+author_nick: bluesabre
 ---
 
 The Xubuntu team is happy to announce the immediate release of Xubuntu 20.10!

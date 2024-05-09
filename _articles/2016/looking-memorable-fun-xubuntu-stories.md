@@ -5,7 +5,7 @@ release:     ""
 serie:       
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 To celebrate **Xubuntu's tenth birthday\***, the Xubuntu team is glad to announce a new campaign and competition!
@@ -20,4 +20,4 @@ At the end of the competition, we will select 5 finalists. All finalists will re
 
 **Notes on licensing:** Submissions to the #LoveXubuntu campaign will be accepted under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) and available for use for Xubuntu marketing in the future without further consent from the participants. That said, we're friendly folks and will try to communicate with you before using your story or image!
 
-<div class="" id="magicdomid20"><span class="author-g-palxbpuayj09o35u">\* The first official Xubuntu release was 6.06, released on June 1, 2006.</span></div>
+\* The first official Xubuntu release was 6.06, released on June 1, 2006.

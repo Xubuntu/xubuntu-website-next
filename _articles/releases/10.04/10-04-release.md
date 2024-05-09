@@ -5,7 +5,7 @@ release:     "10.04"
 serie:       
 category:    announcements
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 Xubuntu 10.04, codenamed the "Lucid Lynx", is the latest and greatest version of Xubuntu, released on April 29th, 2010. Building on the success of Xubuntu 9.10, Xubuntu 10.04 looks forward to continuing the tradition of being a light-weight and easy-to-use Linux distribution built on top of the high-quality and feature-rich core of Ubuntu.

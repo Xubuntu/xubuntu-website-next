@@ -5,7 +5,7 @@ release:     "12.04"
 serie:       faq
 category:    articles
 author:      Simon Steinbeiß
-author_nick: simon-steinbeiss
+author_nick: ochosi
 ---
 
 For quite a while now there has been questions about resizing windows in Xfce, especially with theme with narrow window-borders. Usually people would ask for wider window-borders, but there are several methods of resizing a window and the thin borders in Xubuntu's current default theme Greybird are not as much of a usability issue as some suggest.
@@ -40,6 +40,6 @@ You can also initiate the same action as proposed in **Method 3** above via the 
 Example images
 --------------
 
-\[gallery link="file" columns="2" orderby="title"\]
+<!-- [gallery link="file" columns="2" orderby="title"] -->
 
 *The author of this post is Simon Steinbeiß, who is the Xubuntu Artwork Lead. In addition to Xubuntu, he works extensively on the [Shimmer Project](http://www.shimmerproject.org "Shimmer Project") and the [Xfce Design SIG](http://wiki.xfce.org/design/start "Xfce Design SIG").*

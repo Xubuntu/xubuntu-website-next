@@ -16,6 +16,6 @@ While we originally announced that we would be picking 6 winners, we eventually 
 
 Without further ado, here's the winners in alphabetical order:
 
-\[gallery columns="2" link="none" size="xubuntu\_split\_to\_2" ids="3915,3916,3917,3918,3919,3920,3921,3922,3923,3924"\]
+<!-- [gallery columns="2" link="none" size="xubuntu\_split\_to\_2" ids="3915,3916,3917,3918,3919,3920,3921,3922,3923,3924"] -->
 
 Note that the images listed above are resized for the website. For the full size images, make sure you have the package **xubuntu-community-wallpapers** installed. The package is preinstalled in all new Xubuntu 16.04 installations.

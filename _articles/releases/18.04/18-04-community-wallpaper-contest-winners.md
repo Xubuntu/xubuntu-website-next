@@ -14,6 +14,6 @@ We want to send out a huge thanks to every contestant; last time we had 92 submi
 
 Without further ado, here are the winners:
 
-\[gallery link="file" size="xubuntu\_split\_to\_2" columns="2" ids="4448,4449,4446,4445,4450,4447"\]
+<!-- [gallery link="file" size="xubuntu\_split\_to\_2" columns="2" ids="4448,4449,4446,4445,4450,4447"] -->
 
 Note that the images listed above are resized for the website. For the full size images (up to 4K resolution!), make sure you have the package **xubuntu-community-wallpapers** installed. The package is installed by default in all new Xubuntu 18.04 installations.

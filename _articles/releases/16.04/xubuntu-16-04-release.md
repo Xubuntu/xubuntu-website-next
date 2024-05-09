@@ -14,7 +14,8 @@ The **final release images** are available as Torrents and direct downloads from
 
 As the main server will be very busy in the first few days after release, we recommend using the Torrents wherever possible.
 
-\[caption id="attachment\_3952" align="aligncenter" width="700"\]![Xubuntu 16.04 LTS release art](https://xubuntu.org/wp-content/uploads/2016/04/d09c/xerus-release-art-700.png) Xubuntu 16.04 LTS\[/caption\]
+![Xubuntu 16.04 LTS release art](https://xubuntu.org/assets/articles/releases/2016/d09c/xerus-release-art-700.png)
+Xubuntu 16.04 LTS
 
 Support
 -------

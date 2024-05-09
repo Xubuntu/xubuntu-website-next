@@ -5,14 +5,14 @@ release:     "23.04"
 serie:       
 category:    announcements
 author:      Sean Davis
-author_nick: smd-seandavis
+author_nick: bluesabre
 ---
 
 The Xubuntu team is happy to announce the immediate release of Xubuntu 23.04.
 
 Xubuntu 23.04, codenamed **Lunar Lobster**, is a regular release and will be supported for 9 months, until January 2024.
 
-<figure class="wp-block-image size-full">![](https://xubuntu.org/wp-content/uploads/2023/04/e7ac/xubuntu-23.04.png)<figcaption>Xubuntu 23.04, featuring the latest updates from Xfce 4.18 and GNOME 44.</figcaption></figure>Xubuntu 23.04 features the latest Xfce 4.18. Xfce 4.18 delivers a stable desktop environment with a number of performance improvements and new features to enjoy. In particular, the Thunar file manager benefits from a new image preview feature, undo and redo functionality, file highlights, and recursive search. Check out the [Xfce 4.18](https://www.xfce.org/about/tour418) tour for more details!
+<figure class="wp-block-image size-full">![](https://xubuntu.org/assets/articles/releases/2023/e7ac/xubuntu-23.04.png)<figcaption>Xubuntu 23.04, featuring the latest updates from Xfce 4.18 and GNOME 44.</figcaption></figure>Xubuntu 23.04 features the latest Xfce 4.18. Xfce 4.18 delivers a stable desktop environment with a number of performance improvements and new features to enjoy. In particular, the Thunar file manager benefits from a new image preview feature, undo and redo functionality, file highlights, and recursive search. Check out the [Xfce 4.18](https://www.xfce.org/about/tour418) tour for more details!
 
 Xubuntu 23.04 also welcomes **Xubuntu Minimal** as an official subproject. Xubuntu Minimal is a slimmed down version of Xubuntu that only includes the bare essentials: the desktop, a few Xfce components, and the Xubuntu look and feel. Longtime Xubuntu fans may better know this as *[Xubuntu Core](https://xubuntu.org/news/introducing-xubuntu-core/)*. After nearly eight years of being a supported, but community-built project, we're happy to finally publish downloads along with the main Xubuntu version. Many thanks to the community for keeping the dream alive all these years!
 

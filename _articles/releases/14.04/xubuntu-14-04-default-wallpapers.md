@@ -5,7 +5,7 @@ release:     "14.04"
 serie:       
 category:    articles
 author:      Simon Steinbeiß
-author_nick: simon-steinbeiss
+author_nick: ochosi
 ---
 
 We're happy to announce that for 14.04 we plan to integrate a set of good-looking wallpapers by default. This is a feature many have been lacking for a while, we repeatedly heard/read about it in reviews. And we think the upcoming 14.04 LTS release is the perfect time to finally tackle this issue.

@@ -5,7 +5,7 @@ release:     ""
 serie:       xubuntu-at
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 *The Xubuntu team hears stories about how it is used in organizations all over the world. In this "Xubuntu at.." series of interviews, we seek to interview organizations who wish to share their stories. If your organization is using Xubuntu and you want to share what you're doing with us please contact Elizabeth Krumbach Joseph at lyz@ubuntu.com to discuss details about your organization.*
@@ -20,7 +20,7 @@ We started as a student group at the Milwaukee School of Engineering in 2009. Ou
 
 This isn’t even a developing world problem, there are almost 30 million people in the United States alone that don’t have a computer at home. We aim to redirect computers from the landfill to people that use them around the world. We’ve set up public computer labs at schools, community centers, and churches in Kenya, Cameroon, Mexico, and China, just to name a few places, in addition to our growing body of work in inner city Milwaukee.
 
-[![](/wp-content/uploads/2013/07/Project_CC_2-400x299.jpg "Project_CC_2")](/wp-content/uploads/2013/07/Project_CC_2.jpg)
+[![](/assets/articles/series/Project_CC_2-400x299.jpg "Project_CC_2")](/assets/articles/series/Project_CC_2.jpg)
 
 After being a student group for so many years, we’re currently working on turning Project:CC into an independent 501c(3) to expand and sustain our mission.
 
@@ -36,7 +36,7 @@ It’s no secret that Ubuntu is one of the most user-friendly Linux distribution
 
 Since we use a lot of donated, older hardware, Xubuntu's lightweight Xfce environment makes it so even 10 year old hardware runs smoothly. Occasionally, we’ll get some hardware so old that even Xubuntu won’t run and we have to recycle it, but Xubuntu allows us to get more donated hardware into the hands of people who need it.
 
-[![](/wp-content/uploads/2013/07/Project_CC_1-400x298.jpg "Project_CC_1")](http://xubuntu.org/news/xubuntu-at-project-community-computers-in-milwaukee/project_cc_1/)
+[![](/assets/articles/series/Project_CC_1-400x298.jpg "Project_CC_1")](http://xubuntu.org/news/xubuntu-at-project-community-computers-in-milwaukee/project_cc_1/)
 
 **Can you tell us a bit about your Xubuntu setup?**
 
@@ -60,7 +60,7 @@ We are currently looking for a new open source solution for imaging drives, that
 
 [Read more about their deployment.](http://www.projectcc.org/?page_id=1267)
 
-[![](/wp-content/uploads/2013/07/Project_CC_3-400x533.jpg "Project_CC_3")](http://xubuntu.org/news/xubuntu-at-project-community-computers-in-milwaukee/project_cc_3/)
+[![](/assets/articles/series/Project_CC_3-400x533.jpg "Project_CC_3")](http://xubuntu.org/news/xubuntu-at-project-community-computers-in-milwaukee/project_cc_3/)
 
 **Is there anything else you wish to share with us about your organization or how you use Xubuntu?**
 

@@ -27,4 +27,4 @@ Adding launchers is slightly more complicated, but only because there are more s
 
 The MenuLibre documentation is available online at [https://smdavis.us/doku/doku.php?id=menulibre\_usage](https://smdavis.us/doku/doku.php?id=menulibre_usage).
 
-\[gallery columns="4" size="xubuntu\_split\_to\_4" ids="3845,3846,3844,3843"\]
+<!-- [gallery columns="4" size="xubuntu\_split\_to\_4" ids="3845,3846,3844,3843"] -->

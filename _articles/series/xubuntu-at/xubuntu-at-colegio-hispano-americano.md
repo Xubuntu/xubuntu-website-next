@@ -5,7 +5,7 @@ release:     ""
 serie:       xubuntu-at
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 *The Xubuntu team hears stories about how it is used in organizations all over the world. In this “Xubuntu at..” series of interviews, we seek to interview organizations who wish to share their stories. If your organization is using Xubuntu and you want to share what you’re doing with us please contact Elizabeth K. Joseph at lyz@ubuntu.com to discuss details about your organization.*
@@ -17,7 +17,7 @@ Can you tell us a bit about your role at the Private School Colegio Hispano Amer
 
 My role at the Colegio Hispano Americano is a teacher but also I'm in charge of the computer lab. This private school has Pre-K to 12th grade students.
 
-[![PR-xubuntu-lab2](/wp-content/uploads/2015/07/PR-xubuntu-lab2-475x267.jpg)](/wp-content/uploads/2015/07/PR-xubuntu-lab2.jpg)
+[![PR-xubuntu-lab2](/assets/articles/series/PR-xubuntu-lab2-475x267.jpg)](/assets/articles/series/PR-xubuntu-lab2.jpg)
 
 What influenced your decision to use Open Source Software at the school?
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ Can you tell us a bit about your Xubuntu setup – customizations made, how inst
 
 I installed Xubuntu to 20 used computers Intel Core 2 Duo with 2GB RAM. I used a router and 3 switches to connect them to the network and to my main computer which I monitor, see and administrate each one from my master PC using Epoptes administration software. With it I can see, control or command to open any application in each students computer. (Epoptes is in the Ubuntu Software Center) We painted or classroom with blue and white (for Xubuntu colors). We drew and painted a Linux Penguin Logo in the wall! We still need to draw the mouse from the Xubuntu logo. It's a Xubuntu Lab!
 
-[![PR-xubuntu-lab1](/wp-content/uploads/2015/07/PR-xubuntu-lab1-475x267.jpg)](/wp-content/uploads/2015/07/PR-xubuntu-lab1.jpg)
+[![PR-xubuntu-lab1](/assets/articles/series/PR-xubuntu-lab1-475x267.jpg)](/assets/articles/series/PR-xubuntu-lab1.jpg)
 
 Is there anything else you wish to share with us about your organization or how you use Xubuntu?
 ------------------------------------------------------------------------------------------------
@@ -56,4 +56,4 @@ Materials needed:
 
 Last year I used the above setup with Xubuntu in my class. It is excellent for learning process; on the whiteboard we can write, use pictures, games and more. The following is a video of it in use: <https://www.youtube.com/watch?v=N1XzGk43njc> (in Spanish).
 
-If anyone from Puerto Rico wants to know more about Cueto Method or to how build a low cost Xubuntu Computer Lab, feel free to contact us by phone: 1-787-884-0276 (school phone number) or me 1-787-201-1750. I am also available via email at torres\_jose10 at hotmail dot com.
+If anyone from Puerto Rico wants to know more about Cueto Method or to how build a low cost Xubuntu Computer Lab, feel free to contact us by phone: 1-787-884-0276 (school phone number) or me 1-787-201-1750. I am also available via email at torres_jose10 at hotmail dot com.

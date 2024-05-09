@@ -5,7 +5,7 @@ release:     "10.10"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The first alpha release of Xubuntu 10.10 "Maverick Meerkat" has arrived. This is a testing build designed for developers and is **not suggested for anyone looking for a stable system**.

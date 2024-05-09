@@ -5,7 +5,7 @@ release:     ""
 serie:       
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 Time to reveal your desktop!
@@ -33,6 +33,6 @@ Once you've submitted your screenshot, our moderators will process it as soon as
 
 Default basic minimal look xubuntu starts on:
 
-[![Xubuntu 13.04 Default](/wp-content/uploads/2013/07/xubuntu_13_04_default_theme_by_gridcube-400x291.png)](/wp-content/uploads/2013/07/xubuntu_13_04_default_theme_by_gridcube.png)
+[![Xubuntu 13.04 Default](/assets/articles/2013/xubuntu_13_04_default_theme_by_gridcube-400x291.png)]
 
 How powerful and modern can it become? Share your screenshot today!

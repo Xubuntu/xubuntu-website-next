@@ -8,9 +8,10 @@ author:      flocculant
 author_nick: flocculant
 ---
 
-<div style="float: right;">\[caption id="attachment\_2466" align="alignright" width="288"\]![Xubuntu 14.04 Trusty Tahr](/wp-content/uploads/2014/04/tahr_artwork.png) Xubuntu 14.04 Trusty Tahr\[/caption\]
+![Xubuntu 14.04 Trusty Tahr](/assets/articles/releases/2014/tahr_artwork.png)
+Xubuntu 14.04 Trusty Tahr
 
-</div>The Xubuntu team is pleased to announce the immediate release of Xubuntu 14.04.2 Xubuntu 14.04 is an LTS (Long-Term Support) release and will be supported for 3 years. This is the second Point Release of it's cycle.
+The Xubuntu team is pleased to announce the immediate release of Xubuntu 14.04.2 Xubuntu 14.04 is an LTS (Long-Term Support) release and will be supported for 3 years. This is the second Point Release of it's cycle.
 
 **The final release images** are available as Torrents and direct downloads at [http://cdimage.ubuntu.com/xubuntu/releases/14.04.2/release/](http://cdimage.ubuntu.com/xubuntu/releases/trusty/release/)
 

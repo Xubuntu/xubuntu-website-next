@@ -5,7 +5,7 @@ release:     "12.10"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 You may have noticed in the [release announcement](https://lists.ubuntu.com/archives/ubuntu-release/2012-September/001883.html) for Beta 1 today from Kate Stewart this line:

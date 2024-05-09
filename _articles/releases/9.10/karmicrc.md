@@ -5,7 +5,7 @@ release:     "9.10"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The release candidate of Xubuntu 9.10 "Karmic Koala" has arrived. This is a testing build designed for developers and is **not suggested for anyone looking for a stable system**. If you would like to see what is new in this RC release, please see the [Release Notes](https://wiki.ubuntu.com/Xubuntu/KarmicKoala/RC).

@@ -5,7 +5,7 @@ release:     "8.10"
 serie:       
 category:    announcements
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The Xubuntu team is happy to bring you the latest and greatest software the open source community has to offer. This is their latest result: Xubuntu 8.10, which brings a host of excellent improvements built on the rock solid Xfce 4.4.2 desktop environment.
@@ -83,7 +83,12 @@ The ecryptfs-utils package was recently promoted to Ubuntu main, with support fo
 
 Xubuntu 8.10 ships Network Manager 0.7 (by Dan Williams and others), which comes with long-expected features, such as:
 
- \* system wide settings (i.e., no need to log in in order to get a connection) \* management of 3G connections (GSM/CDMA) \* management of multiple active devices at once \* management of PPP and PPPOE connections \* management of devices with static IP configurations \* route management for devices
+- system wide settings (i.e., no need to log in in order to get a connection)
+- management of 3G connections (GSM/CDMA)
+- management of multiple active devices at once
+- management of PPP and PPPOE connections
+- management of devices with static IP configurations
+- route management for devices
 
 More information can be found on the [Network Manager wiki](http://live.gnome.org/NetworkManager).
 

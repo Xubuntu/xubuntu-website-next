@@ -5,7 +5,7 @@ release:     "12.10"
 serie:       
 category:    articles
 author:      Simon Steinbeiß
-author_nick: simon-steinbeiss
+author_nick: ochosi
 ---
 
 While we've been using "Greybird" as our default theme for a few releases now, I've continuously worked on it. The goal was not only to ensure the quality of the theme in terms of a flawless Xfce4 and Gtk3 performance and extras like supporting Unity or Compiz, but also to visually keep it up-to-date.
@@ -20,7 +20,7 @@ Since the Xfce developer community decided a while ago not to port their (and co
 
 So, without much further ado and blathering, here goes a representational compilation for our Greybird refresh.
 
-[![Screenshot compilation of Greybird's refresh](/wp-content/uploads/2012/06/greybird_refresh.png "Greybird refresh")](http://xubuntu.org/news/xubuntus-default-theme-gets-a-refresh-for-quantal/greybird_refresh/)
+[![Screenshot compilation of Greybird's refresh](/assets/articles/releases/2012/greybird_refresh.png "Greybird refresh")](http://xubuntu.org/news/xubuntus-default-theme-gets-a-refresh-for-quantal/greybird_refresh/)
 
 ### Testing
 

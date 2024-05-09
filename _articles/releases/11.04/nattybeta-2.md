@@ -5,7 +5,7 @@ release:     "11.04"
 serie:       
 category:    
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 The second and final beta release of Xubuntu 11.04 "Natty Narwhal" has arrived. This is a testing build designed for testers and developers and is **not suggested for anyone looking for a stable system**. This beta replaces the traditional Release Candidate - the stable version for end-users will be released **April 28th 2011**, so these last two weeks of testing are of utmost importance for a stable release.

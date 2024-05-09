@@ -5,7 +5,7 @@ release:     "16.04"
 serie:       
 category:    articles
 author:      Elizabeth K. Joseph
-author_nick: lyz
+author_nick: pleia2
 ---
 
 As we start counting down for the release, we are collecting submissions for the community wallpapers package (xubuntu-community-wallpapers) in Xubuntu 16.04 LTS.
