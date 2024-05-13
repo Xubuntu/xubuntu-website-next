@@ -7,7 +7,7 @@ layout: default
    {{ page.content }}
 </section>
 <section>
-   {%- assign releases = site.releases -%}
+   {%- assign releases = site.releases | sort: 'version' | reverse -%}
    {%- for release in releases -%}
       <h3>{{ release.title }}</h3>
       {{ release.content }}

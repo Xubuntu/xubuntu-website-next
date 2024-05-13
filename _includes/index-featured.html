@@ -1,4 +1,4 @@
-<section class="wide secondary">
+<section class="wide alternative-bg">
    <section class="columns-1-2">
       <h3>Latest Release</h3>
       <h3>Latest News</h3>
@@ -17,7 +17,7 @@
          </p>
       </div>
       <section class="article-list columns-2">
-         {%- assign latest_news = site.articles | sort: 'date' | reverse -%}
+         {%- assign latest_news = site.posts -%}
          {%- for news in latest_news limit:2 -%}
             <div class="featured">
                <h4>{{ news.title }}</h4>

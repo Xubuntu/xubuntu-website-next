@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<section>
+   {%- assign post. = paginator.posts | reverse -%}
+   {% for post in paginator.posts %}
+      <article>
+         <h1>
+            <a href="{{ post.url }}">
+               {{ post.title }}
+            </a>
+         </h1>
+         <ul class="meta">
+            <li>{{ post.date | date: site.date_format }}</li>
+            {%- if post.release -%}
+            {{ post.release }}
+               {%- capture release_link -%}/release/{{ post.release }}{%- endcapture -%}
+               <li><a href="{{ release_link | relative_link }}">{{ post.release }}</a></li>
+            {%- endif -%}
+            {%- if post.serie -%}
+               {%- assign serie = site.series | first -%}
+               <li><a href="/serie/{{ post.serie }}">{{serie.title}}</a></li>
+            {%- endif -%}
+         </ul>
+         {{ post.content }}
+      </article>
+   {% endfor %}
+</section>
+
+<!-- Pagination links -->
+<section class="pagination">
+   <div class="older">
+      {% if paginator.next_page %}
+         <a href="{{ paginator.next_page_path }}" class="button"><span>Older posts</span></a>
+      {% endif %}
+   </div>
+   <span class="page_number">
+      {{ paginator.page }}/{{ paginator.total_pages }}
+   </span>
+   <div class="newer">
+      {% if paginator.previous_page %}
+         <a href="{{ paginator.previous_page_path }}" class="button"><span>Newer posts</span></a>
+      {% endif %}
+   </div>
+</section>

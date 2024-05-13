@@ -49,7 +49,7 @@ layout: default
       </ul>
    {%- endif -%}
 
-   {%- assign articles = site.articles | where: "release", page.version -%}
+   {%- assign articles = site.posts | where: "release", page.version -%}
    {%- if articles.size > 0 -%}
       <h3>Articles</h3>
       <ul class="article-list">

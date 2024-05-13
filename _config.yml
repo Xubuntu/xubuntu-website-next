@@ -16,8 +16,8 @@
 title: Xubuntu
 email: xubuntu-devel@lists.ubuntu.com
 description: Xubuntu is a community developed, elegant and easy to use operating system
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://xubuntu.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Formats
 date_format: "%B %e, %Y"
@@ -25,7 +25,7 @@ torrent_link_format: "https://torrent.ubuntu.com/xubuntu/releases/CODENAME/relea
 
 # Content organization
 collections:
-   articles:
+   posts:
       output: true
       permalink: /news/:title
    press:
@@ -35,28 +35,30 @@ collections:
    series:
       output: true
       permalink: /serie/:title
-permalink: /:title
+permalink: /:title/
 nav_links:
    - download.md
    - help.md
    - contribute.md
    - blog.md
+   - blog/index.html
 
 # Build settings
-paginate: 5
-paginate_path: "/blog/page:num/"
 markdown: kramdown
 plugins:
   - jekyll-feed
 exclude:
-  - images
   - Gemfile
   - Gemfile.lock
+  - README.md
   - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+paginate: 5
+paginate_path: '/blog/page/:num/'
 
 # Defaults
 defaults:
@@ -67,16 +69,14 @@ defaults:
          release_media: true
    -
       scope:
-         path: ""
+         type: "posts"
+      values:
+         layout: "post"
+   -
+      scope:
          type: "releases"
       values:
          layout: "release"
-   -
-      scope:
-         path: ""
-         type: "articles"
-      values:
-         layout: "article"
    -
       scope:
          type: "series"

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<article>
+   <h1>
+      <a href="{{ page.url }}">
+         {{ page.title }}
+      </a>
+   </h1>
+   <ul class="meta">
+      <li>{{ page.date | date: site.date_format }}</li>
+      {%- if page.release -%}
+         {%- capture release_link -%}/release/{{ page.release }}{%- endcapture -%}
+         <li><a href="{{ release_link | relative_link }}">{{ page.release }}</a></li>
+      {%- endif -%}
+      {%- if page.serie -%}
+         {%- assign serie = site.series | first -%}
+         <li><a href="/serie/{{ page.serie }}">{{serie.title}}</a></li>
+      {%- endif -%}
+   </ul>
+   {{ page.content }}
+</article>

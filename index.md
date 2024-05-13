@@ -18,22 +18,19 @@ layout: default
 </section>
 <hr />
 <section class="columns-2">
-   <div class="icon-side">
-      <img src="{{ "/assets/pages/icon_help.svg" | relative_url }}" alt="Help!" />
-      <div>
-         <h3>Need help?</h3>
-         <p>User documentation is shipped with each version of Xubuntu. For further assistance, check all available support methods.</p>
-         <p><a class="quo" href="{{ "/help" | relative_url }}">Support</a></p>
-      </div>
-   </div>
-   <div class="icon-side">
-      <img src="{{ "/assets/pages/icon_community.svg" | relative_url }}" alt="Join our community" />
-      <div>
-         <h3>Join our community</h3>
-         <p>Xubuntu is created by volunteers.<br />Read more on how you can get involved and help us make Xubuntu even better!</p>
-         <p><a class="quo" href="{{ "/contribute" | relative_url }}">Get Involved</a></p>
-      </div>
-   </div>
+   {%- capture help -%}
+      <h3>Need help?</h3>
+      <p>User documentation is shipped with each version of Xubuntu. For further assistance, check all available support methods.</p>
+      <p><a class="quo" href="{{ "/help" | relative_url }}">Support</a></p>
+   {%- endcapture -%}
+   {%- include icon-content.html icon="help" content=help -%}
+
+   {%- capture community -%}
+      <h3>Join our community</h3>
+      <p>Xubuntu is created by volunteers.<br />Read more on how you can get involved and help us make Xubuntu even better!</p>
+      <p><a class="quo" href="{{ "/contribute" | relative_url }}">Get Involved</a></p>
+   {%- endcapture -%}
+   {%- include icon-content.html icon="community" content=community -%}
 </section>
 
 {%- include index-featured.html -%}
