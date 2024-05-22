@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-   {%- include head.html -%}
+   {%- include layout/head.html -%}
    <body id="{{ page.path | remove: '.md' }}">
-      {%- include header.html -%}
+      {%- include layout/header.html -%}
       <main>
          {{ content }}
       </main>
-      {%- include footer.html -%}
+      {%- include layout/footer.html -%}
    </body>
 </html>

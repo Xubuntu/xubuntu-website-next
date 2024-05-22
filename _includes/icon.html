@@ -1,5 +1,5 @@
 {%- assign icon = include.icon -%}
-<div class="icon icon-{{ icon }}">
+<div class="icon icon-{{ include.icon }}">
    {%- assign icon_url = "/svg/icon_" | append: icon | append: ".svg" -%}
    {%- include {{ icon_url }} -%}
 </div>

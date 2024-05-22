@@ -1,7 +1,5 @@
-<div class="icon-and-content has-icon-{{ include.icon }}">
-   <div class="icon">
-      {%- include _icon.html icon=include.icon -%}
-   </div>
+<div class="icon-and-content" data-icon="{{ include.icon }}">
+   {%- include icon.html icon=include.icon -%}
    <div class="content">
       {{ include.content }}
    </div>

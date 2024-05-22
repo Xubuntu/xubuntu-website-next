@@ -15,7 +15,7 @@
    --color-gradient-first: #2895d9;
    --color-gradient-second: #0d70b3;
    --color-blue-angle: #0a5283;
-   --color-icon-circle: #45339b;
+   --color-icon-circle: #5967cf; /* #45339b; */
 
    --color-link: #2c82dd;
    --color-link-hover: #13385e;
@@ -403,15 +403,16 @@ footer {
 /*  Icon alongside content  */
 
 .icon-and-content {
+   --icon-size: 100px;
    display: grid;
-   grid-template-columns: 100px auto;
+   grid-template-columns: var(--icon-size) auto;
    grid-gap: var(--pad-small);
    overflow: visible;
    transition: all 200ms;
 }
    .icon-and-content img,
    .icon-and-content svg {
-      width: 100%;
+      width: var(--icon-size);
       height: auto;
       overflow: visible;
 
@@ -419,103 +420,6 @@ footer {
    .icon-and-content h3 {
       color: var(--color-heading);
    }
-
-/*  Icon transitions  */
-
-/*  Community  */
-.icon-and-content.has-icon-community .bubbles {
-   transition: all 200ms;
-   transform: scale(1);
-   transform-origin: 50% 50%;
-}
-   .icon-and-content.has-icon-community:hover .bubbles {
-      transform: scale(3);
-      transform-origin: 50% 50%;
-   }
-      .icon-and-content.has-icon-community .bubbles > * {
-         transition: all 200ms;
-      }
-
-      .icon-and-content.has-icon-community:hover .bubbles > * {
-         fill-opacity: 0.5 !important;
-      }
-
-/*  Development  */
-.icon-and-content.has-icon-team_development .bug {
-   transition: all 5s;
-}
-   .icon-and-content.has-icon-team_development:hover .bug {
-      transform: scale(0.7) translate( 15vw, -100vh );
-   }
-      .icon-and-content.has-icon-team_development:hover .bug > * {
-         display: block;
-         animation-name: wiggle;
-         animation-composition: add;
-         animation-duration: 0.5s;
-         animation-iteration-count: infinite;
-         animation-direction: alternate;
-         --wiggle: 3.2em;
-      }
-         .icon-and-content.has-icon-team_development:hover .bug [class*="wing"] {
-            display: block;
-            animation-name: wiggle, rotate;
-            animation-duration: 0.5s, 0.25s;
-            transform-origin: 57.23% 37.33%;
-            --rotation: 10deg;
-         }
-            .icon-and-content.has-icon-team_development:hover .bug .wing-right {
-               --rotation: -10deg;
-            }
-      .icon-and-content.has-icon-team_development .circle {
-         transition: all 1s;
-         transform-origin: 50% 50%;
-      }
-         .icon-and-content.has-icon-team_development:hover .circle {
-            transform: scale(0);
-         }
-      .icon-and-content.has-icon-team_development .check {
-         display: block;
-         opacity: 0;
-      }
-         .icon-and-content.has-icon-team_development:hover .check {
-            animation-name: expose;
-            animation-delay: 0.8s;
-            animation-duration: 200ms;
-            animation-iteration-count: 1;
-            animation-fill-mode: forwards;
-         }
-
-/*  Documentation  */
-.icon-and-content.has-icon-team_documentation:hover .sheet {
-   transform: translate(0, -100%);
-   animation-name: rollup-repeat;
-   animation-duration: 2s;
-   animation-delay: 2s;
-   animation-iteration-count: infinite;
-   animation-fill-mode: forwards;
-   animation-timing-function: linear;
-}
-
-/*  Animation keyframes  */
-@keyframes rollup-repeat {
-   from { transform: translate(0, 100%); }
-   to { transform: translate(0, -100%); }
-}
-
-@keyframes wiggle {
-   from { transform: translate(0, 0); }
-   to { transform: translate(var(--wiggle), 0); }
-}
-
-@keyframes rotate {
-   from { transform: rotate(0); }
-   to { transform: rotate(var(--rotation)); }
-}
-
-@keyframes expose {
-   from { opacity: 0; }
-   to { opacity: 1; }
-}
 
 /*  Section with alternative BG color  */
 

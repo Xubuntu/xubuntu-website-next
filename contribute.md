@@ -54,7 +54,7 @@ menu_title: Contribute
 
 ### Communication
 
-The main communication channels for Xubuntu development are the IRC and Matrix channels **#xubuntu-devel**, **the Xubuntu-devel mailing list**, and the **Telegram** group127. The Xubuntu team also runs community meetings more or less regularly.
+The main communication channels for Xubuntu development are the IRC and Matrix channels **#xubuntu-devel**, **the Xubuntu-devel mailing list**, and the **Telegram** group. The Xubuntu team also runs community meetings more or less regularly.
 
 <a class="button" href="https://kiwiirc.com/nextclient/irc.libera.chat?nick=xu-dev?w#xubuntu-devel"><span>IRC</span></a>
 <a class="button" href="https://matrix.to/#/#xubuntu-devel:ubuntu.com"><span>Matrix</span></a>

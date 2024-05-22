@@ -3,7 +3,7 @@
       <div>
          <a class="icon" href="{{ "/" | relative_url }}"><img src="/assets/images/icon_white_xubuntu.svg" alt="Xubuntu" /></a>
          <section class="columns-2">
-            {%- include nav.html -%}
+            {%- include layout/nav.html -%}
             <div>
                {%- assign latest_release = site.releases | sort: 'version' | reverse | first -%}
                <a href="{{ latest_release.url }}">{{ latest_release.title }}</a>
