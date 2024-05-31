@@ -12,7 +12,7 @@ layout: default
       <li>{{ page.date | date: site.date_format }}</li>
       {%- if page.release -%}
          {%- capture release_link -%}/release/{{ page.release }}{%- endcapture -%}
-         <li><a href="{{ release_link | relative_link }}">{{ page.release }}</a></li>
+         <li><a href="{{ release_link | relative_url }}">{{ page.release }}</a></li>
       {%- endif -%}
       {%- if page.serie -%}
          {%- assign serie = site.series | first -%}

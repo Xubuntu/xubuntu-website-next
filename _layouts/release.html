@@ -56,7 +56,7 @@ layout: default
          {%- for article in articles -%}
             <li>
                {{ article.date | date: site.date_format }}<br />
-               <strong><a href="{{ article.url }}">{{ article.title }}</a></strong>
+               <strong><a href="{{ article.url | relative_url }}">{{ article.title }}</a></strong>
             </li>
          {%- endfor -%}
       </ul>

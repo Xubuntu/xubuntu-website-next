@@ -47,8 +47,8 @@ layout: default
             Supported until {{ latest_release.date_eol | date: site.date_format }}
          </p>
          <p>
-            <a class="quo" href="{{ latest_release.url }}">Read more</a><br />
-            <a class="quo" href="{{ "/releases" | relative_link }}">All releases</a><br />
+            <a class="quo" href="{{ latest_release.url | relative_url }}">Read more</a><br />
+            <a class="quo" href="{{ "/releases" | relative_url }}">All releases</a><br />
          </p>
       </div>
       <section class="article-list columns-2">
@@ -57,7 +57,7 @@ layout: default
             <div class="featured">
                <h4>{{ news.title }}</h4>
                <p>{{ news.excerpt }}</p>
-               <p><a class="quo" href="{{ news.url }}">Read more</a></p>
+               <p><a class="quo" href="{{ news.url | relative_url }}">Read more</a></p>
             </div>
          {%- endfor -%}
       </section>
