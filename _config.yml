@@ -16,7 +16,7 @@
 title: Xubuntu
 email: xubuntu-devel@lists.ubuntu.com
 description: Xubuntu is a community developed, elegant and easy to use operating system
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/xubuntu-website-next" # the subpath of your site, e.g. /blog
 url: "https://xubuntu.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Formats
