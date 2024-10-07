@@ -24,7 +24,7 @@
 
    --color-button-fg: var(--palette-xubuntu-blue);
    --color-button-bg: #edf4fa;
-   --color-button-shadow: #114668;
+   --color-button-shadow: var(--palette-xubuntu-blue-alt);
    --color-button-glow: rgba(255,255,255,0.5);
 
    --font: 'Noto Sans', sans-serif;
@@ -60,6 +60,10 @@
       --pad: 4em;
       --pad-small: 2em;
    }
+}
+
+body#index header {
+   --color-button-shadow: #114668;
 }
 
 /*
@@ -542,6 +546,9 @@ section.alternative-bg {
    margin: 0.5em 0.5em 0.5em 0;
    padding: 0.65em 1em;
 }
+   a.button {
+      color: var(--color-button-fg);
+   }
    .button span {
       background-color: var(--color-button-bg);
       border-radius: 0.5em;
