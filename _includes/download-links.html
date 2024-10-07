@@ -1,0 +1,35 @@
+{%- assign release = include.release -%}
+
+{%- if release.version_point -%}
+   {%- assign version_component = release.version_point -%}
+{%- else -%}
+   {%- assign version_component = release.version -%}
+{%- endif -%}
+<h4>Torrents <span class="sidenote">Highly recommended!</span></h4>
+<ul>
+   {%- assign products = release.products | split: ',' -%}
+   {%- for product in products -%}
+      {%- assign product_name = site.data.glossary.products[product].name -%}
+      {%- assign torrent = site.torrent_link_format | replace: "CODENAME", release.codename_slug | replace: "PRODUCT", product | replace: "VER", version_component -%}
+      {%- assign architectures = release.architectures | split: ',' -%}
+      {%- for arch in architectures -%}
+         {%- assign arch_name = site.data.glossary.architectures[arch].name -%}
+         {%- assign torrent_arch = torrent | replace: "ARCH", arch -%}
+         <li><strong><a href="{{ torrent_arch }}">Torrent ({{ product_name }}, {{ arch_name }})</a></strong></li>
+      {%- endfor -%}
+   {%- endfor -%}
+</ul>
+<details>
+   <summary>
+      <h4>Direct Downloads <span class="sidenote click-to-open">Click to open!</span></h4>
+   </summary>
+   <ul class="mirrors-list">
+      {%- for mirror in site.data.mirrors.servers -%}
+         <li>
+            {%- if mirror.major -%}<strong>{%- endif -%}
+            <a href="{{ mirror.url | replace: "VER", version_component }}">{{ mirror.country }}</a>
+            {%- if mirror.major -%}</strong>{%- endif -%}
+         </li>
+      {%- endfor -%}
+   </ul>
+</details>

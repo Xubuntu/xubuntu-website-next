@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<section>
+   <h2>{{ page.title }}</h2>
+   {%- assign today = site.time | date: '%Y-%m-%d' -%}
+   {%- assign releases = site.releases | sort: 'version' | reverse -%}
+   {%- for release in releases -%}
+      {%- assign release_eol = release.date_eol | date: '%Y-%m-%d' -%}
+      {%- if release_eol > today -%}
+         <h3>{{ release.title }}</h3>
+         <p>For more information about the release, including release announcement, see the <a href="{{ release.url }}">release page</a>.</p>
+         {%- include download-links.html page=release -%}
+      {%- endif -%}
+   {%- endfor -%}
+</section>
+
+{{ page.content }}

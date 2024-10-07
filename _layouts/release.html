@@ -17,36 +17,8 @@ layout: default
    {%- assign eol_date = page.date_eol | date: '%Y%m%d' -%}
 
    {%- if eol_date > site_date -%}
-      {%- if page.version_point -%}
-         {%- assign version_component = page.version_point -%}
-      {%- else -%}
-         {%- assign version_component = page.version -%}
-      {%- endif -%}
       <h3>Downloads</h3>
-      <h4>Torrents <span class="sidenote">Highly recommended!</span></h4>
-      <ul>
-         {%- assign products = page.products | split: ',' -%}
-         {%- for product in products -%}
-            {%- assign product_name = site.data.glossary.products[product].name -%}
-            {%- assign torrent = site.torrent_link_format | replace: "CODENAME", page.codename_slug | replace: "PRODUCT", product | replace: "VER", version_component -%}
-            {%- assign architectures = page.architectures | split: ',' -%}
-            {%- for arch in architectures -%}
-               {%- assign arch_name = site.data.glossary.architectures[arch].name -%}
-               {%- assign torrent_arch = torrent | replace: "ARCH", arch -%}
-               <li><strong><a href="{{ torrent_arch }}">Torrent ({{ product_name }}, {{ arch_name }})</a></strong></li>
-            {%- endfor -%}
-         {%- endfor -%}
-      </ul>
-      <h4>Direct Downloads</h4>
-      <ul class="mirrors-list">
-         {%- for mirror in site.data.mirrors.servers -%}
-            <li>
-               {%- if mirror.major -%}<strong>{%- endif -%}
-               <a href="{{ mirror.url | replace: "VER", version_component }}">{{ mirror.country }}</a>
-               {%- if mirror.major -%}</strong>{%- endif -%}
-            </li>
-         {%- endfor -%}
-      </ul>
+      {%- include download-links.html release=page -%}
    {%- endif -%}
 
    {%- assign articles = site.posts | where: "release", page.version -%}
