@@ -8,7 +8,7 @@ layout: default
 </section>
 <section>
    {%- assign today = site.time | date: '%Y-%m-%d' -%}
-   {%- assign releases = site.releases | sort_natural: 'version' | reverse -%}
+   {%- assign releases = site.releases | sort: 'date_rel' | reverse -%}
 
    <h3>Supported Releases</h3>
    {%- for release in releases -%}

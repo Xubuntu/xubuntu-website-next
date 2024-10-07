@@ -5,8 +5,8 @@
          <section class="columns-2">
             {%- include layout/nav.html -%}
             <div>
-               {%- assign latest_release = site.releases | sort_natural: 'version' | reverse | first -%}
-               <a href="{{ latest_release.url | relative_url }}">{{ latest_release.title }}</a>
+               {%- assign latest_release = site.releases | sort: 'date_rel' | reverse | first -%}
+               <a href="{{ release.url | relative_url }}">{{ latest_release.title }}</a>
                <a href="{{ "/releases" | relative_url }}">All releases</a>
             </div>
          </section>

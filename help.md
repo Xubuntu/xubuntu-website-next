@@ -15,7 +15,7 @@ menu_title: Support
       <p>If you are installing or using Xubuntu and have run into a problem, please read the <strong>release documents</strong> for your release to learn about common bugs and known fixes to them.</p>
       <p>
          {%- assign today = site.time | date: '%Y-%m-%d' -%}
-         {%- assign releases = site.releases | sort_natural: 'version' | reverse -%}
+         {%- assign releases = site.releases | sort: 'date_rel' | reverse -%}
          {%- for release in releases -%}
             {%- assign release_eol = release.date_eol | date: '%Y-%m-%d' -%}
             {%- if release_eol > today -%}

@@ -8,8 +8,8 @@ layout: default
 
    <dl class="release-info">
       <dt>Codename</dt><dd>{{ page.codename }}</dd>
-      <dt>Release Date</dt><dd>{{ page.date_rel }}</dd>
-      <dt>End of Life</dt><dd>{{ page.date_eol }}</dd>
+      <dt>Release Date</dt><dd>{{ page.date_rel | date: site.date_format }}</dd>
+      <dt>End of Life</dt><dd>{{ page.date_eol | date: site.date_format }}</dd>
       {%- assign docs = site.releasedocs | where: "release", page.version -%}
       {%- if docs.size > 1 -%}
          <dt>Release Links</dt><dd>

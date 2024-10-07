@@ -39,7 +39,7 @@ layout: default
       <h3>Latest News</h3>
    </section>
    <section class="columns-1-2">
-      {%- assign latest_release = site.releases | sort_natural: 'version' | reverse | first -%}
+      {%- assign latest_release =  site.releases | sort: 'date_rel' | reverse | first -%}
       <div class="latest-release featured">
          <h4>{{ latest_release.title }}</h4>
          <p>

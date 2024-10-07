@@ -14,7 +14,6 @@ layout: default
          <ul class="meta">
             <li>{{ post.date | date: site.date_format }}</li>
             {%- if post.release -%}
-            {{ post.release }}
                {%- capture release_link -%}/release/{{ post.release }}{%- endcapture -%}
                <li><a href="{{ release_link | relative_url }}">{{ post.release }}</a></li>
             {%- endif -%}
