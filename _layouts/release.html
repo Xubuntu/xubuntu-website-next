@@ -10,13 +10,15 @@ layout: default
       <dt>Codename</dt><dd>{{ page.codename }}</dd>
       <dt>Release Date</dt><dd>{{ page.date_rel }}</dd>
       <dt>End of Life</dt><dd>{{ page.date_eol }}</dd>
-      <dt>Release Links</dt><dd>
-         {%- assign docs = site.releasedocs | where: "release", page.version -%}
-         {%- for doc in docs -%}
-            {%- capture doc_url -%}{{ page.url | relative_url }}/doc/{{ doc.slug }}/{%- endcapture -%}
-            <a href="{{ doc_url }}">{{ doc.title }}</a><br />
-         {%- endfor -%}
-      </dd>
+      {%- assign docs = site.releasedocs | where: "release", page.version -%}
+      {%- if docs.size > 1 -%}
+         <dt>Release Links</dt><dd>
+            {%- for doc in docs -%}
+               {%- capture doc_url -%}{{ page.url | relative_url }}/doc/{{ doc.slug }}/{%- endcapture -%}
+               <a href="{{ doc_url }}">{{ doc.title }}</a><br />
+            {%- endfor -%}
+         </dd>
+      {%- endif -%}
    </dl>
 
    {%- assign site_date = site.time | date: '%Y%m%d' -%}
