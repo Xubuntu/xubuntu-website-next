@@ -12,8 +12,18 @@ menu_title: Support
    </div>
    <div>
       <h3>Release Notes</h3>
-      <p>If you are installing or using Xubuntu and have run into a problem, please read the <a href="#">Release Announcement</a> and <a href="#">Release Notes</a> for your release to learn about common bugs and known fixes to them.</p>
-      <p><a href="{{ "/releases" | relative_url }}" class="button"><span>Find your release</span></a></p>
+      <p>If you are installing or using Xubuntu and have run into a problem, please read the <strong>release documents</strong> for your release to learn about common bugs and known fixes to them.</p>
+      <p>
+         {%- assign today = site.time | date: '%Y-%m-%d' -%}
+         {%- assign releases = site.releases | sort_natural: 'version' | reverse -%}
+         {%- for release in releases -%}
+            {%- assign release_eol = release.date_eol | date: '%Y-%m-%d' -%}
+            {%- if release_eol > today -%}
+               <a href="{{ release.url | relative_url }}" class="button"><span>{{ release.title }}</span></a>
+            {%- endif -%}
+         {%- endfor -%}
+      </p>
+      <p><a class="quo" href="{{ "/releases" | relative_url }}">Browse All Releases</a></p>
    </div>
 </section>
 
