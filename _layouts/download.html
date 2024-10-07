@@ -10,7 +10,7 @@ layout: default
       {%- assign release_eol = release.date_eol | date: '%Y-%m-%d' -%}
       {%- if release_eol > today -%}
          <h3>{{ release.title }}</h3>
-         <p>For more information about the release, including release announcement, see the <a href="{{ release.url }}">release page</a>.</p>
+         <p>For more information about the release, including release announcement, see the <a href="{{ release.url | relative_url }}">release page</a>.</p>
          {%- include download-links.html page=release -%}
       {%- endif -%}
    {%- endfor -%}

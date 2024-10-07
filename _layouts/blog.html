@@ -16,11 +16,11 @@ layout: default
             {%- if post.release -%}
             {{ post.release }}
                {%- capture release_link -%}/release/{{ post.release }}{%- endcapture -%}
-               <li><a href="{{ release_link | relative_link }}">{{ post.release }}</a></li>
+               <li><a href="{{ release_link | relative_url }}">{{ post.release }}</a></li>
             {%- endif -%}
             {%- if post.serie -%}
                {%- assign serie = site.series | first -%}
-               <li><a href="/serie/{{ post.serie }}">{{serie.title}}</a></li>
+               <li><a href="/serie/{{ post.serie }}">{{serie.title}}</a></li>{%- # TODO: relative_url -%}
             {%- endif -%}
          </ul>
          {{ post.content }}
@@ -32,7 +32,7 @@ layout: default
 <section class="pagination">
    <div class="older">
       {% if paginator.next_page %}
-         <a href="{{ paginator.next_page_path }}" class="button"><span>Older posts</span></a>
+         <a href="{{ paginator.next_page_path | relative_url }}" class="button"><span>Older posts</span></a>
       {% endif %}
    </div>
    <span class="page_number">
@@ -40,7 +40,7 @@ layout: default
    </span>
    <div class="newer">
       {% if paginator.previous_page %}
-         <a href="{{ paginator.previous_page_path }}" class="button"><span>Newer posts</span></a>
+         <a href="{{ paginator.previous_page_path | relative_url }}" class="button"><span>Newer posts</span></a>
       {% endif %}
    </div>
 </section>
