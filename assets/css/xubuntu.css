@@ -592,10 +592,6 @@ section.alternative-bg {
          box-shadow: 0 0 2em var(--color-button-glow);
       }
 
-.alternative-bg .button span,
-.alternative-bg .button::before {
-   background-color: var(--color-bg);
-}
 /*
  *
  *
