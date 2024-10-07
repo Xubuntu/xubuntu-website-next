@@ -61,7 +61,7 @@ layout: default
       <h3>Screenshots</h3>
       <div class="media-list">
          {%- for media in found -%}
-            <a href="{{ media }}"><img src="{{ media }}" /></a>
+            <a href="{{ media | relative_url }}"><img src="{{ media | relative_url }}" /></a>
          {%- endfor -%}
       </div>
    {%- endif -%}
