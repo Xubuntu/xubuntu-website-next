@@ -41,9 +41,9 @@ You can also initiate the same action as proposed in **Method 3** above via the 
 Example images
 --------------
 
-![Method 1: Using the resize grip](/assets/articles/2012/resize_method_1.png)
-![Method 3: Keyboard shortcut](/assets/articles/2012/resize_method_3.png)
-![Method 4: Using the top corners of a window](/assets/articles/2012/resize_method_4.png)
-![Method 5: Using the window-menu](/assets/articles/2012/resize_method_5.png)
+![Method 1: Using the resize grip]({{ site.baseurl }}/assets/articles/2012/resize_method_1.png)
+![Method 3: Keyboard shortcut]({{ site.baseurl }}/assets/articles/2012/resize_method_3.png)
+![Method 4: Using the top corners of a window]({{ site.baseurl }}/assets/articles/2012/resize_method_4.png)
+![Method 5: Using the window-menu]({{ site.baseurl }}/assets/articles/2012/resize_method_5.png)
 
 *The author of this post is Simon Steinbeiß, who is the Xubuntu Artwork Lead. In addition to Xubuntu, he works extensively on the [Shimmer Project](http://www.shimmerproject.org "Shimmer Project") and the [Xfce Design SIG](http://wiki.xfce.org/design/start "Xfce Design SIG").*

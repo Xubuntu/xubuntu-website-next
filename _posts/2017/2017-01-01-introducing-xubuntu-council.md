@@ -41,9 +41,9 @@ As the titles alone can tell you, the three council members all have a strong hi
 Interviewing the Council
 ------------------------
 
-![Sean Davis](/assets/articles/2016/xubuntu-council-2016-sean.jpg)
-![Simon Steinbeiß](/assets/articles/2016/xubuntu-council-2016-simon.jpg)
-![Pasi Lallinaho](/assets/articles/2016/xubuntu-council-2016-pasi.jpg)
+![Sean Davis]({{ site.baseurl }}/assets/articles/2016/xubuntu-council-2016-sean.jpg)
+![Simon Steinbeiß]({{ site.baseurl }}/assets/articles/2016/xubuntu-council-2016-simon.jpg)
+![Pasi Lallinaho]({{ site.baseurl }}/assets/articles/2016/xubuntu-council-2016-pasi.jpg)
 
 ### What inspired you to get involved with the Xubuntu project?
 

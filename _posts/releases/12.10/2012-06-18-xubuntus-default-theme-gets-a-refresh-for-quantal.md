@@ -21,7 +21,7 @@ Since the Xfce developer community decided a while ago not to port their (and co
 
 So, without much further ado and blathering, here goes a representational compilation for our Greybird refresh.
 
-![Screenshot compilation of Greybird's refresh](/assets/articles/2012/greybird_refresh.png "Greybird refresh")
+![Screenshot compilation of Greybird's refresh]({{ site.baseurl }}/assets/articles/2012/greybird_refresh.png "Greybird refresh")
 
 ### Testing
 

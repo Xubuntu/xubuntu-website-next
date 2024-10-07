@@ -16,7 +16,7 @@ Last month we started a dialog with Kevin Driscoll, PC/Linux Technical Consultan
 Can you tell us a bit about yourself and the work that Computer Reach does?
 ---------------------------------------------------------------------------
 
-![](/assets/articles/2015/computer-reach-RGB.png)](http://www.computerreach.org)
+![]({{ site.baseurl }}/assets/articles/2015/computer-reach-RGB.png)](http://www.computerreach.org)
 
 Computer Reach is a volunteer organization in Pittsburgh that refurbishes computers for use by non-profits. Local companies, school districts, and individuals donate their used computers to us. We recondition them and use imaging software to put standardized software on them, mainly for educational use. The operation started in 2001 doing just Macs but for the past several years has a strong PC-Linux operation. More about Computer Reach at [computerreach.org](http://www.computerreach.org/).
 
@@ -30,7 +30,7 @@ What made you select Xubuntu for your PC deployments?
 
 Initially, Edubuntu was the Linux distribution that was used because of bountiful online resources and the included array of software for school-age children. More recently, in order to be able to run similarly on computers from 5-15 years old, we had to choose a desktop environment that was intuitive but also light-weight. Xfce was the environment I thought lent itself best to efficiency as well as features. We have used it to put together a desktop that is equally intuitive to Mac users as it is to Windows users, since most users of our computers are coming to Linux from one of those platforms.
 
-![](/assets/articles/2015/computer_reach_xubuntu_2015.jpg)
+![]({{ site.baseurl }}/assets/articles/2015/computer_reach_xubuntu_2015.jpg)
 
 Can you tell us a bit about your Xubuntu setup?
 -----------------------------------------------

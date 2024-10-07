@@ -9,7 +9,7 @@ author:      Simon Steinbeiß
 author_nick: ochosi
 ---
 
-![screenlocker](/assets/articles/2014/preferences-desktop-screensaver.png)
+![screenlocker]({{ site.baseurl }}/assets/articles/2014/preferences-desktop-screensaver.png)
 
 If you experienced problems with logging into your session after suspending your laptop by closing the lid (and only this exact scenario!), your days of worry should be over now. Many users have commented on the [respective bugreport](https://bugs.launchpad.net/ubuntu/+source/xubuntu-default-settings/+bug/1303736), many of whom experienced different issues with suspending. This made the issue very difficult to pinpoint in the beginning for us technical folk and confusing for users too.
 

@@ -17,6 +17,6 @@ If you are willing to **implement a feature** too (or work on an item when "impl
 
 If you set yourself as assignee to any item and are not an active member in the Xubuntu community, please send an email to the [Xubuntu development mailing list](https://lists.ubuntu.com/mailman/listinfo/xubuntu-devel) to introduce yourself quickly. Unless we hear from assignees before the end of week 20 (20th of May), ideas will not be approved anyway. Approving will happen during week 20 by the Xubuntu team.
 
-![](/assets/articles/2012/roadmap-infographic.png "The process to create the roadmap for Xubuntu 12.10")
+![]({{ site.baseurl }}/assets/articles/2012/roadmap-infographic.png "The process to create the roadmap for Xubuntu 12.10")
 
 To read more about approving and the roadmap phases generally, refer to the [Roadmap phases](https://wiki.ubuntu.com/Xubuntu/Roadmap/Phases) or refer to the partly simplified infographic above.

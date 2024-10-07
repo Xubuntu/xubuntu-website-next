@@ -34,6 +34,6 @@ Once you've submitted your screenshot, our moderators will process it as soon as
 
 Default basic minimal look xubuntu starts on:
 
-![Xubuntu 13.04 Default](/assets/articles/2013/xubuntu_13_04_default_theme_by_gridcube.png)
+![Xubuntu 13.04 Default]({{ site.baseurl }}/assets/articles/2013/xubuntu_13_04_default_theme_by_gridcube.png)
 
 How powerful and modern can it become? Share your screenshot today!

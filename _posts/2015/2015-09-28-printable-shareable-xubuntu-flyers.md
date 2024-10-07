@@ -11,11 +11,11 @@ author_nick: pleia2
 
 During the Wily Werewolf development cycle, the Xubuntu Marketing team has completed work on flyers that can now be printed by anyone wishing to promote Xubuntu at conferences, global jams, release parties and other events.
 
-![](/assets/articles/2015/flyer-teaser.png)
+![]({{ site.baseurl }}/assets/articles/2015/flyer-teaser.png)
 
 Flyers can be printed at home or with any typical printing service. A successful trial run of 25 US letter-sized flyers was completed in August by our marketing lead:
 
-![](/assets/articles/2015/xubuntu_flyers_printed.jpg)
+![]({{ site.baseurl }}/assets/articles/2015/xubuntu_flyers_printed.jpg)
 
 **Find the links to the flyer as well as all translated versions on the [Products](http://xubuntu.org/products/ "Products") page.**
 

@@ -38,7 +38,7 @@ To help us out with testing **and** be considered as a sticker bundle recipient,
 
 Learn more about ISO and package testing on the [Ubuntu wiki](https://wiki.ubuntu.com/QATeam/Roles/Tester).
 
-![Xubuntu Stickers](/assets/articles/2015/xubuntu_stickers_1504.jpg)
+![Xubuntu Stickers]({{ site.baseurl }}/assets/articles/2015/xubuntu_stickers_1504.jpg)
 
 Terms
 -----

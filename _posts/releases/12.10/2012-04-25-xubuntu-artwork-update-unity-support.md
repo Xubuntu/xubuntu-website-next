@@ -27,9 +27,9 @@ If you find any bugs please [file them on launchpad](https://bugs.launchpad.net/
 
 And finally, since everyone loves screenshots, here go a few of Unity with Greybird in action, taken by our tester Carlos.
 
-![Greybird in Unity, Dash](/assets/articles/2012/greybird_unity_dash.png "Greybird in Unity, Dash")
-![Greybird in Unity, Nautilus and gnome-terminal](/assets/articles/2012/greybird_unity_nautilus_gnome-terminal.png "Greybird in Unity, Nautilus and gnome-terminal")
-![Greybird in Unity, Keyboard-Shortcuts Overlay](/assets/articles/2012/greybird_unity_kb_shortcuts_overlay.png "Greybird in Unity, Keyboard-Shortcuts Overlay")
-![Greybird in Unity, Rhythmbox and the Sound-Menu](/assets/articles/2012/greybird_unity_rhythmbox_soundmenu.png "Greybird in Unity, Rhythmbox and the Sound-Menu")
+![Greybird in Unity, Dash]({{ site.baseurl }}/assets/articles/2012/greybird_unity_dash.png "Greybird in Unity, Dash")
+![Greybird in Unity, Nautilus and gnome-terminal]({{ site.baseurl }}/assets/articles/2012/greybird_unity_nautilus_gnome-terminal.png "Greybird in Unity, Nautilus and gnome-terminal")
+![Greybird in Unity, Keyboard-Shortcuts Overlay]({{ site.baseurl }}/assets/articles/2012/greybird_unity_kb_shortcuts_overlay.png "Greybird in Unity, Keyboard-Shortcuts Overlay")
+![Greybird in Unity, Rhythmbox and the Sound-Menu]({{ site.baseurl }}/assets/articles/2012/greybird_unity_rhythmbox_soundmenu.png "Greybird in Unity, Rhythmbox and the Sound-Menu")
 
 *The author of this post is Simon Steinbeiß, who is the Xubuntu Artwork Lead. In addition to Xubuntu, he works extensively on the [Shimmer Project](http://www.shimmerproject.org "Shimmer Project") and the [Xfce Design SIG](http://wiki.xfce.org/design/start "Xfce Design SIG").*

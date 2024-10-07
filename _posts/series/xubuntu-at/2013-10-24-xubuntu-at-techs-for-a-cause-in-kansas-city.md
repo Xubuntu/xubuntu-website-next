@@ -17,7 +17,7 @@ Back in September we heard from Chris Wiley of *Techs for a Cause* and were put 
 
 "Our choice to use Linux was a conscious (and logical) decision since it is an open-source operating system, and we have no official budget or source of income. We chose Xubuntu in particular because of the large repositories offered through Ubuntu and Synaptic. It offers the low resource requirements that run best with the systems we rehab, and is balanced with more functionality and ease of use than some other distros such as Lubuntu.
 
-![Techs for a Cause systems](/assets/articles/2013/techsforacausesystems-400x300.jpg)
+![Techs for a Cause systems]({{ site.baseurl }}/assets/articles/2013/techsforacausesystems-400x300.jpg)
 
 "Personally, I believe in open-source because it is a gateway for innovation, accessibility, and equality. Open-source software is the future, as can already be seen by the explosion of the Android fork of Linux. Android had become what it is, because it is open-source. There are many great programs that are open-source, and they often are better than the paid versions because it is passion, rather than profits that drive them.
 

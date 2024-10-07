@@ -28,7 +28,7 @@ Adding launchers is slightly more complicated, but only because there are more s
 
 The MenuLibre documentation is available online at [https://smdavis.us/doku/doku.php?id=menulibre\_usage](https://smdavis.us/doku/doku.php?id=menulibre_usage).
 
-![](/assets/articles/2016/menulibre-search.png)
-![](/assets/articles/2016/menulibre-ui.png)
-![](/assets/articles/2016/settingsmanager-menulibre.png)
-![](/assets/articles/2016/whisker-editapps.png)
+![]({{ site.baseurl }}/assets/articles/2016/menulibre-search.png)
+![]({{ site.baseurl }}/assets/articles/2016/menulibre-ui.png)
+![]({{ site.baseurl }}/assets/articles/2016/settingsmanager-menulibre.png)
+![]({{ site.baseurl }}/assets/articles/2016/whisker-editapps.png)

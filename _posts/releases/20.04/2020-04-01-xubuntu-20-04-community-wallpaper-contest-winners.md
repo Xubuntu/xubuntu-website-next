@@ -15,22 +15,22 @@ We want to send out a huge thanks to every contestant. Each contest becomes more
 
 Without further ado, here are the winners:
 
-![](/assets/articles/2020/Untitled_by_Luna_Reichmann.jpg)
+![]({{ site.baseurl }}/assets/articles/2020/Untitled_by_Luna_Reichmann.jpg)
 Untitled by Luca Reichmann (CC-BY 4.0)
 
-![](/assets/articles/2020/Sunset_by_Kacperu.jpg)
+![]({{ site.baseurl }}/assets/articles/2020/Sunset_by_Kacperu.jpg)
 "Sunset" by Kacperu (CC-BY 4.0)
 
-![](/assets/articles/2020/Untitled_by_Anna_Ceccarelli.jpg)
+![]({{ site.baseurl }}/assets/articles/2020/Untitled_by_Anna_Ceccarelli.jpg)
 Untitled by Anna Ceccarelli (CC-BY 4.0)
 
-![](/assets/articles/2020/Lighthouse_by_Dominik_Czernetzky.jpg)
+![]({{ site.baseurl }}/assets/articles/2020/Lighthouse_by_Dominik_Czernetzky.jpg)
 "Lighthouse" by Dominik Czernetzky (CC-BY 4.0)
 
-![](/assets/articles/2020/Untitled_by_Nesimi_Acarca.jpg)
+![]({{ site.baseurl }}/assets/articles/2020/Untitled_by_Nesimi_Acarca.jpg)
 Untitled by Nesimi Acarca (CC-BY 4.0)
 
-![](/assets/articles/2020/Campos_de_Castilla_by_David_Arias_Gutierrez.jpg)
+![]({{ site.baseurl }}/assets/articles/2020/Campos_de_Castilla_by_David_Arias_Gutierrez.jpg)
 "Campos de Castilla" by David Arias Gutierrez (CC-BY 4.0)
 
 Note that the images listed above are resized for the website. For the full size images, make sure you have the package **xubuntu-community-wallpapers** installed. The package is installed by default in all new Xubuntu 20.04 installations.

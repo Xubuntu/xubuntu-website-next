@@ -13,7 +13,7 @@ The Xubuntu team is happy to announce the immediate release of Xubuntu 23.10.
 
 Xubuntu 23.10, codenamed **Mantic Minotaur**, is a regular release and will be supported for 9 months, until July 2024.
 
-![](/assets/articles/2023/xubuntu-23-10.png)
+![]({{ site.baseurl }}/assets/articles/2023/xubuntu-23-10.png)
 Xubuntu 23.10, featuring the latest updates from Xfce 4.18 and GNOME 44.
 
 Xubuntu 23.10 features the latest updates from Xfce 4.18, GNOME 45, and MATE 1.26. With a focus on stability, memory management, and hardware support, Xubuntu 23.10 should perform well on your device. Enjoy frictionless bluetooth headphone connections and out-of-the-box touchpad support. Read Sean's [*What's New in Xubuntu 23.10*](https://blog.bluesabre.org/2023/10/10/whats-new-in-xubuntu-23-10/) post for an in-depth review of the latest updates.

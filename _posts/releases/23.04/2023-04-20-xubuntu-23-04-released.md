@@ -13,7 +13,7 @@ The Xubuntu team is happy to announce the immediate release of Xubuntu 23.04.
 
 Xubuntu 23.04, codenamed **Lunar Lobster**, is a regular release and will be supported for 9 months, until January 2024.
 
-![](/assets/articles/2023/xubuntu-23.04.png)
+![]({{ site.baseurl }}/assets/articles/2023/xubuntu-23.04.png)
 Xubuntu 23.04, featuring the latest updates from Xfce 4.18 and GNOME 44.
 
 Xubuntu 23.04 features the latest Xfce 4.18. Xfce 4.18 delivers a stable desktop environment with a number of performance improvements and new features to enjoy. In particular, the Thunar file manager benefits from a new image preview feature, undo and redo functionality, file highlights, and recursive search. Check out the [Xfce 4.18](https://www.xfce.org/about/tour418) tour for more details!

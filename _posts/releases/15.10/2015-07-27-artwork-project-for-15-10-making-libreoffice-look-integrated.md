@@ -9,7 +9,7 @@ author:      Simon Steinbeiß
 author_nick: ochosi
 ---
 
-[![The Document Foundation](/assets/articles/2015/tdflogo.png)](http://www.documentfoundation.org)
+[![The Document Foundation]({{ site.baseurl }}/assets/articles/2015/tdflogo.png)](http://www.documentfoundation.org)
 
 Many users or members of the community will know this already, but just for the sake of clarity: Xubuntu 15.10 Wily Werewolf will be the first release to ship LibreOffice by default. This has been a long-standing and often-repeated request so we decided to try and evaluate this on our way to the next LTS release, which will be 16.04.
 
@@ -27,15 +27,15 @@ Screenshots
 
 ### LibreOffice Writer
 
-![LibreOffice Writer](/assets/articles/2015/lo-writer.png)
+![LibreOffice Writer]({{ site.baseurl }}/assets/articles/2015/lo-writer.png)
 
 ### LibreOffice Calc
 
-![LibreOffice Calc](/assets/articles/2015/lo-calc.png)
+![LibreOffice Calc]({{ site.baseurl }}/assets/articles/2015/lo-calc.png)
 
 ### LibreOffice Impress
 
-![LibreOffice Impress](/assets/articles/2015/lo-impress.png)
+![LibreOffice Impress]({{ site.baseurl }}/assets/articles/2015/lo-impress.png)
 
 Project Links
 -------------

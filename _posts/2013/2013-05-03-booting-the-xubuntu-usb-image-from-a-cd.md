@@ -37,7 +37,7 @@ Main contents of the downloaded archive should be:
 
 You will then have to create your bootable USB device (flash drive) as documented in the [installation section](https://help.ubuntu.com/community/Installation/FromUSBStick) of the Ubuntu wiki.
 
-After you create both the bootable USB device and Plop CD, place the CD in the CD drive, and power off the computer. After you power off, place the USB device in the computer and turn the computer on, you may need to go into the BIOS settings and configure it to boot from CD first.![](/assets/articles/2013/plop-menu.png)
+After you create both the bootable USB device and Plop CD, place the CD in the CD drive, and power off the computer. After you power off, place the USB device in the computer and turn the computer on, you may need to go into the BIOS settings and configure it to boot from CD first.![]({{ site.baseurl }}/assets/articles/2013/plop-menu.png)
 
 After you boot into Plop from the CD, you should see a “USB” item on the menu that will appear (as pictured to the right), select it with the Down arrow key, then hit Enter to boot.
 

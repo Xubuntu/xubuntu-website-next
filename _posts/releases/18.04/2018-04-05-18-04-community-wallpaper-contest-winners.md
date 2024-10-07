@@ -15,11 +15,11 @@ We want to send out a huge thanks to every contestant; last time we had 92 submi
 
 Without further ado, here are the winners:
 
-![](/assets/articles/2018/2017_07_21_23_33_13_03-web.jpg)
-![](/assets/articles/2018/40103442821_db033c72a4_o-web.jpg)
-![](/assets/articles/2018/EastHarbourSunrise-web.jpg)
-![](/assets/articles/2018/IMG_3397_2560x1600-web.jpg)
-![](/assets/articles/2018/pesseguinho-web.jpg)
-![](/assets/articles/2018/Winter_Wonderland_by_Sarah_Muenz-web.jpg)
+![]({{ site.baseurl }}/assets/articles/2018/2017_07_21_23_33_13_03-web.jpg)
+![]({{ site.baseurl }}/assets/articles/2018/40103442821_db033c72a4_o-web.jpg)
+![]({{ site.baseurl }}/assets/articles/2018/EastHarbourSunrise-web.jpg)
+![]({{ site.baseurl }}/assets/articles/2018/IMG_3397_2560x1600-web.jpg)
+![]({{ site.baseurl }}/assets/articles/2018/pesseguinho-web.jpg)
+![]({{ site.baseurl }}/assets/articles/2018/Winter_Wonderland_by_Sarah_Muenz-web.jpg)
 
 Note that the images listed above are resized for the website. For the full size images (up to 4K resolution!), make sure you have the package **xubuntu-community-wallpapers** installed. The package is installed by default in all new Xubuntu 18.04 installations.
