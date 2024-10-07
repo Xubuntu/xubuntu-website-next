@@ -207,7 +207,7 @@ header {
 }
    header .main {
       position: relative;
-      z-index: 3;
+      z-index: 6;
 
       display: grid;
       grid-template-columns: 144px auto;
@@ -303,21 +303,60 @@ header {
 }
 
 header .main.compact {
-   display: block;
+   grid-template-columns: max-content auto;
 }
    header .main.compact #logo,
    header .main.compact #logo img {
       height: 30px;
    }
-   header .main.compact nav {
-      margin-top: var(--pad);
-      align-content: start;
+   header .main.compact nav .menu {
+      display: none;
    }
-      header .main.compact nav a {
-         display: inline-block;
-         margin: 0 var(--pad) calc(var(--pad) / 2) 0;
+      header .main.compact nav::before {
+         content: '';
+         display: block;
+         height: 30px;
+         width: 30px;
+         background-image: url(../images/menu.svg);
+         background-size: 22px;
+         background-repeat: no-repeat;
+         background-position: 50% 50%;
       }
-
+         header .main.compact nav.open::before {
+            background-image: url(../images/menu_close.svg);
+         }
+         header .main.compact nav.open .menu {
+            display: block;
+            position: absolute;
+            top: calc(30px + var(--pad));
+            left: 0;
+            right: 0;
+            background-color: var(--color-bg);
+            width: auto;
+         	z-index: 500;
+            border-radius: 0.5em;
+         }
+            header .main.compact nav.open .menu a {
+               display: block;
+               margin: 0;
+               padding: calc(var(--pad) / 2) var(--pad);
+               border-bottom: 1px solid hsl(0,0%,50%,0.2);
+               color: var(--color-link);
+               text-align: center;
+               font-weight: 500;
+            }
+               header .main.compact nav.open .menu a:first-child {
+                  border-top-right-radius: 0.5em;
+                  border-top-left-radius: 0.5em;
+               }
+               header .main.compact nav.open .menu a:last-child {
+                  border-bottom: none;
+                  border-bottom-right-radius: 0.5em;
+                  border-bottom-left-radius: 0.5em;
+               }
+               header .main.compact nav.open .menu a:hover {
+                  background-color: var(--color-bg-alternative);
+               }
 
 /*  Main  */
 
