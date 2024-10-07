@@ -20,7 +20,7 @@ layout: default
             {%- endif -%}
             {%- if post.serie -%}
                {%- assign serie = site.series | first -%}
-               <li><a href="/serie/{{ post.serie }}">{{serie.title}}</a></li>{%- # TODO: relative_url -%}
+               <li><a href="/serie/{{ post.serie }}">{{serie.title}}</a></li>
             {%- endif -%}
          </ul>
          {{ post.content }}
