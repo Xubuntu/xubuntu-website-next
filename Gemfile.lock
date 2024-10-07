@@ -201,6 +201,7 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll_custom_permalink (0.0.1)
     jemoji (0.13.0)
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
@@ -267,6 +268,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 231)
   jekyll-feed (~> 0.6)
+  jekyll_custom_permalink (~> 0.0)
   kramdown-parser-gfm
   tzinfo (~> 1.2)
   tzinfo-data

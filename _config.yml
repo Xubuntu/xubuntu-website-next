@@ -32,6 +32,10 @@ collections:
    releases:
       output: true
       permalink: /release/:title
+   releasedocs:
+      output: true
+      custom_permalink_placeholders: ["release"]
+      permalink: /release/:release/doc/:title/
    series:
       output: true
       permalink: /serie/:title
