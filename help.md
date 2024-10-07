@@ -13,6 +13,7 @@ menu_title: Support
    <div>
       <h3>Release Notes</h3>
       <p>If you are installing or using Xubuntu and have run into a problem, please read the <a href="#">Release Announcement</a> and <a href="#">Release Notes</a> for your release to learn about common bugs and known fixes to them.</p>
+      <p><a href="{{ "/releases" | relative_url }}" class="button"><span>Find your release</span></a></p>
    </div>
 </section>
 
@@ -31,4 +32,32 @@ menu_title: Support
          </div>
       </section>
    </section>
+</section>
+
+<section class="columns-2">
+   <div>
+      <h3>Mailing Lists</h3>
+      <p>Mailing lists are discussion groups that use mass distribution of email to reach all subscribers. Mailing lists are ideal when you have limited connectivity and are not able to use real-time discussion methods.</p>
+      <p>The <a href="https://lists.ubuntu.com/mailman/listinfo/xubuntu-users">Xubuntu-users mailing list</a> can be used for community support and discussions.</p>
+      <p>For more Ubuntu-related mailing lists, including localized ones, see the complete list on the <a href="https://lists.ubuntu.com/">Ubuntu Mailing Lists</a> page.</p>
+   </div>
+   <div>
+      <h3>Forums</h3>
+      <p>On the official <strong>Ubuntu forums</strong> you can find help with Xubuntu related topics in the <a href="https://ubuntuforums.org/forumdisplay.php?f=329&amp;pp=20&amp;prefixid=xubuntu&amp;sort=lastpost&amp;order=desc&amp;daysprune=-1">Desktop Environments</a> category.</p>
+      <p>The official <strong><a href="https://discourse.ubuntu.com/">Ubuntu Discourse</a></strong> has a <a href="https://discourse.ubuntu.com/c/flavors/xubuntu/196">Xubuntu</a> subcategory.</p>
+      <p>You can also find help at the official <strong><a href="https://forum.xfce.org/">Xfce forum</a></strong>.</p>
+   </div>
+</section>
+<br />
+<section class="columns-2">
+   <div>
+      <h3>Q&amp;A Sites</h3>
+      <p>You can also add your support question and search through answered questions in <strong><a href="https://answers.launchpad.net/ubuntu/+questions">Launchpad Answers</a></strong>.</p>
+      <p>You may also ask questions and search for answers on <strong><a href="https://askubuntu.com/questions/tagged/xubuntu">Ask Ubuntu</a></strong>, as well as follow Xubuntu tagged questions by <a href="https://askubuntu.com/feeds/tag/xubuntu">RSS feed</a>.<br></p>
+   </div>
+   <div>
+      <h3>Other Platforms</h3>
+      <p>Questions and answers, as well as general discussions, can be found on the <a href="https://www.reddit.com/r/xubuntu/">Xubuntu Reddit</a>.</p>
+      <p><strong>Telegram</strong> users can find support help in the <a href="https://t.me/ubuntusupport">Ubuntu Support</a> and <a href="https://t.me/XubuntuSupport">Xubuntu Support</a> groups.</p>
+   </div>
 </section>

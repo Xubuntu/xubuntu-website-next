@@ -145,8 +145,8 @@ figure img {
 
 summary {
    list-style: none;
+   cursor: pointer;
 }
-
 details .click-to-open::after {
    content: '';
    display: inline-block;
@@ -478,10 +478,25 @@ section.alternative-bg {
       height: auto;
    }
 
-/*  Mirrors list  */
-.mirrors-list {
-   column-count: 3;
+/*  Columned list  */
+.columned-list {
    column-gap: 1em;
+}
+
+@media screen and (min-width:600px) {
+   .columned-list {
+      column-count: 3;
+   }
+}
+@media screen and (min-width:900px) {
+   .columned-list {
+      column-count: 4;
+   }
+}
+@media screen and (min-width:1200px) {
+   .columned-list {
+      column-count: 5;
+   }
 }
 
 /*  Pagination  */
@@ -564,6 +579,11 @@ section.alternative-bg {
       content: '›';
       margin-left: 0.5em;
    }
+
+span.quo {
+   color: var(--color-link);
+   cursor: pointer;
+}
 
 /*
  */

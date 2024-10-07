@@ -7,9 +7,37 @@ layout: default
    {{ page.content }}
 </section>
 <section>
+   {%- assign today = site.time | date: '%Y-%m-%d' -%}
    {%- assign releases = site.releases | sort: 'version' | reverse -%}
+
+   <h3>Supported Releases</h3>
    {%- for release in releases -%}
-      <h3>{{ release.title }}</h3>
-      {{ release.content }}
+      {%- assign release_eol = release.date_eol | date: '%Y-%m-%d' -%}
+      {%- if release_eol > today -%}
+         <h4><a href="{{ release.url | relative_url }}">{{ release.title }}</a></h4>
+         {{ release.content }}
+      {%- endif -%}
    {%- endfor -%}
+
+   <h3>Old Releases</h3>
+   <p>Old Xubuntu releases which have reached their End of Life dates are listed on this site for archival purposes.</p>
+   <p>While it is possible to download and run these old releases, running them is <strong>not supported</strong>.</p>
+   <details>
+      <summary>
+         <p><span class="quo">Show Old Releases</span></p>
+      </summary>
+      <ul class="columned-list">
+         {%- for release in releases -%}
+            {%- assign release_eol = release.date_eol | date: '%Y-%m-%d' -%}
+            {%- if release_eol <= today -%}
+               <li><a href="{{ release.url | relative_url }}">
+                  {{ release.title }}
+                  {%- if release.lts -%}
+                     &nbsp;(LTS)
+                  {%- endif -%}
+               </a></li>
+            {%- endif -%}
+         {%- endfor -%}
+      </ul>
+   </details>
 </section>
