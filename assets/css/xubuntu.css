@@ -206,7 +206,7 @@ header {
       z-index: 3;
 
       display: grid;
-      grid-template-columns: auto max-content;
+      grid-template-columns: 144px auto;
       grid-template-areas: "logo nav";
       margin-top: 1em;
       margin-bottom: 1em;
@@ -217,14 +217,10 @@ header {
       header #logo {
          grid-area: logo;
       }
-         header #logo img {
-            height: 30px;
-            width: 144px;
-            max-width: 144px;
-         }
       header nav {
          grid-area: nav;
          align-content: center;
+         justify-self: end;
       }
          header nav a {
             color: #fff;
@@ -257,7 +253,7 @@ header {
    }
       body#index header .main {
          margin-top: var(--pad);
-         margin-bottom: var(--pad);
+         margin-bottom: calc(var(--pad) * 2);
       }
       body#index header::before {
          width: 60%;
@@ -282,16 +278,42 @@ header {
    }
 
 @media screen and (min-width:800px) {
+   body#index header .main {
+      grid-template-columns: auto max-content;
+      margin-bottom: var(--pad);
+   }
    body#index header #logo img {
       object-fit: contain;
       height: auto;
       width: auto;
-      max-width: unset;
+      max-width: 240px;
    }
    body#index header nav {
       align-content: start;
    }
 }
+@media screen and (min-width:1000px) {
+   body#index header #logo img {
+      max-width: unset;
+   }
+}
+
+header .main.compact {
+   display: block;
+}
+   header .main.compact #logo,
+   header .main.compact #logo img {
+      height: 30px;
+   }
+   header .main.compact nav {
+      margin-top: var(--pad);
+      align-content: start;
+   }
+      header .main.compact nav a {
+         display: inline-block;
+         margin: 0 var(--pad) calc(var(--pad) / 2) 0;
+      }
+
 
 /*  Main  */
 
