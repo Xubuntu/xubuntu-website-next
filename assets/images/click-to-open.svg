@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 16 16.001" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-675.56 -657.52)" fill="none" stroke="#000" stroke-linejoin="round">
-  <path d="m677.44 665.03c2.2356-13.049 16.91-6.4747 5.5891 7.9867l-0.70586-5.9886" stop-color="#000000" stroke-linecap="square" style="font-variation-settings:normal"/>
-  <path d="m683.03 673.02 7.0115-3.4742" stop-color="#000000" style="font-variation-settings:normal"/>
+ <g transform="translate(-675.56 -657.52)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width=".99999">
+  <path d="m676.14 664.99c2.2363-12.995 19.511-6.366 8.1871 8.0359l-0.70608-5.964" stop-color="#000000" stroke-linecap="square" style="font-variation-settings:normal"/>
+  <path d="m684.33 673.02 7.0137-3.4599" stop-color="#000000" style="font-variation-settings:normal"/>
  </g>
 </svg>

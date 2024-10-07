@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="12.186869"
-     inkscape:cx="6.1541649"
-     inkscape:cy="17.4368"
+     inkscape:zoom="24.373738"
+     inkscape:cx="1.1487774"
+     inkscape:cy="11.713427"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
@@ -35,13 +35,13 @@
      id="layer1"
      transform="translate(-675.56035,-657.52059)">
     <path
-       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 677.43771,665.03396 c 2.23557,-13.0488 16.90959,-6.47473 5.58907,7.9867 l -0.70586,-5.98861"
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 676.13814,664.98536 c 2.23628,-12.99509 19.51119,-6.36605 8.18709,8.03586 l -0.70608,-5.96396"
        id="path1"
        sodipodi:nodetypes="ccc" />
     <path
-       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 683.02678,673.02066 7.01146,-3.47423"
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 684.32523,673.02122 7.01368,-3.45993"
        id="path2"
        sodipodi:nodetypes="cc" />
   </g>
